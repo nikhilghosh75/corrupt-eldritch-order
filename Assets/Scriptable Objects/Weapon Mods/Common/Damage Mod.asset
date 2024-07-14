@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98ee1d3ee9ee1db45873f18bd82b9564, type: 3}
+  m_Name: Damage Mod
+  m_EditorClassIdentifier: 
+  displayName: Damage
+  icon: {fileID: 21300000, guid: 8ab6aa03911197846ba9333f904603c8, type: 3}
+  multiplier: 1.1

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3696309e82da88243b2408a3e54302fe, type: 3}
+  m_Name: Level 2
+  m_EditorClassIdentifier: 
+  levelID: 2
+  minLevelLength: 8
+  maxLevelLength: 10
+  numShops: 1
+  levelChunks:
+  - {fileID: 1912751335100450952, guid: fac859aae0a08034d9f85b5a07124013, type: 3}
+  - {fileID: 5630499992282737623, guid: 0509c5a2ffaa6724aa497dddcf46bb89, type: 3}
+  - {fileID: 1912751335100450952, guid: 8c1627bf413693446a04cd7aa7bd8c09, type: 3}
+  - {fileID: 1912751335100450952, guid: 43c41ceacbc1dde4dadb35cca54c51ee, type: 3}
+  - {fileID: 1912751335100450952, guid: d6f0843d30e97794bbc42cd28b329b08, type: 3}
+  - {fileID: 1912751335100450952, guid: f0b35014c610ccf4b8c1775435ffefa5, type: 3}
+  - {fileID: 1912751335100450952, guid: 30aac616f8bcbe04b83728f6efd35974, type: 3}
+  - {fileID: 1912751335100450952, guid: 7238ce527870ede40bf8246a7f486ecf, type: 3}
+  - {fileID: 1912751335100450952, guid: c261931831b1e354ba88e8597dfcdc79, type: 3}
+  - {fileID: 1912751335100450952, guid: ad2c1dfc75f10254699852af8d3f8b8b, type: 3}
+  - {fileID: 1912751335100450952, guid: 4f543c70ee9d346f191b3c9215ba4465, type: 3}
+  - {fileID: 1912751335100450952, guid: ba61548ab1e31d04dbc1053d967750e1, type: 3}
+  - {fileID: 1912751335100450952, guid: 25e47768c22c6e9408bc5f158eb7789d, type: 3}
+  - {fileID: 1912751335100450952, guid: c02f5cd2344357746929a9978b95f521, type: 3}
+  - {fileID: 1912751335100450952, guid: 93814e4b5f4019a498cf69e48f9d5edd, type: 3}
+  - {fileID: 1912751335100450952, guid: c5a3a3fc435743241b4f7152061632b4, type: 3}
+  - {fileID: 1912751335100450952, guid: 305a785dee43a354db9b9f7d87fb6d5e, type: 3}
+  - {fileID: 1912751335100450952, guid: 0423fc4fd33a4964a9f658f4ee3b8b70, type: 3}
+  - {fileID: 1912751335100450952, guid: f31a9c4ad4c86b947a146ea6a94f90e9, type: 3}
+  - {fileID: 1912751335100450952, guid: c9a95a9f077a7754d8f9cd990b999722, type: 3}
+  - {fileID: 1912751335100450952, guid: 1da2234c6ead0ea44a8d94429b7f2ea2, type: 3}
+  - {fileID: 1912751335100450952, guid: 97fbdc65aad8c44aa9ec306fe83e4a43, type: 3}
+  - {fileID: 1912751335100450952, guid: 44e672229dbe5174c8d0fa846f258da5, type: 3}
+  - {fileID: 1912751335100450952, guid: 2a32c8dc450f02040b5d6e5ccdeb2203, type: 3}
+  - {fileID: 1912751335100450952, guid: 7fef2096a00f4704f9d1cbcd340f595e, type: 3}
+  - {fileID: 1912751335100450952, guid: 4090f22417c31cf43ba20b9e94cea101, type: 3}
+  - {fileID: 1912751335100450952, guid: 625ad17c943a16047aeb5aa0de27f8f6, type: 3}
+  - {fileID: 1912751335100450952, guid: e34c8f4c05221b548ad2a3687213c01d, type: 3}
+  directionChances:
+    upChance: 1
+    downChance: 10
+    leftChance: 1
+    rightChance: 1
+  enemyItems:
+    groundEnemies:
+    - enemy: {fileID: 9012419731071546668, guid: 63b96d335291f3e4a88aa9335f5dcdec, type: 3}
+      probability: 8
+    - enemy: {fileID: 1649618208081616243, guid: 561bf7784b301e246bcde6feaf5b47cf, type: 3}
+      probability: 15
+    - enemy: {fileID: 7610850960096770283, guid: e484766c21c2bc34e89819eb38501c29, type: 3}
+      probability: 4
+    flyingEnemies:
+    - enemy: {fileID: 1583202068361556556, guid: 356631a19e3c9a243bd703bb7c58939a, type: 3}
+      probability: 2
+    - enemy: {fileID: 1583202068361556556, guid: 8535d3d8449b03c4e96a5b2c7374ac6d, type: 3}
+      probability: 3
+    - enemy: {fileID: 1583202068361556556, guid: be065a3d5cd9ba54cab70c2e9ccdc6cf, type: 3}
+      probability: 4
+    rangedEnemies:
+    - enemy: {fileID: 1583202068361556556, guid: 356631a19e3c9a243bd703bb7c58939a, type: 3}
+      probability: 10
+    - enemy: {fileID: 1649618208081616243, guid: 561bf7784b301e246bcde6feaf5b47cf, type: 3}
+      probability: 4
+    - enemy: {fileID: 1583202068361556556, guid: be065a3d5cd9ba54cab70c2e9ccdc6cf, type: 3}
+      probability: 15
+    - enemy: {fileID: 1583202068361556556, guid: 8535d3d8449b03c4e96a5b2c7374ac6d, type: 3}
+      probability: 20
+    boss:
+    - enemy: {fileID: 0}
+      probability: 0
+    bossMode: {fileID: 0}
+    validBossModeIds: 0000000001000000020000000300000004000000
+    bossModeCount: 2
+    bossAttackCount: 5
+  minSize: {x: 71, y: 40}
+  maxSize: {x: 142, y: 80}

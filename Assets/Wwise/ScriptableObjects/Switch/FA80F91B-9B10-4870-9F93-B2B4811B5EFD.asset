@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdf95d2914afbd04281fbc6f8b4227a3, type: 3}
+  m_Name: FA80F91B-9B10-4870-9F93-B2B4811B5EFD
+  m_EditorClassIdentifier: 
+  objectName: Industrial
+  id: 478885480
+  guid: FA80F91B-9B10-4870-9F93-B2B4811B5EFD
+  WwiseSwitchGroupReference: {fileID: 11400000, guid: 4363ac89008e8c749b397be123340f05, type: 2}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c16a00e51e7c71f419f9c9af92c8e42c, type: 3}
+  m_Name: BombProjectile
+  m_EditorClassIdentifier: 
+  _projectileName: 
+  _sprite: {fileID: 450096276, guid: 2cd08b5f8dfc6d642ac80dd3c0ad5d76, type: 3}
+  damage: 1
+  speed: 5
+  timeUntilDestroy: 3
+  pierce: 0
+  belongsToPlayer: 0
+  scaleX: 1
+  scaleY: 1
+  isExplosive: 0
+  isBouncing: 0
+  isLobbed: 1
+  gravityScale: 2
+  isBurning: 0
+  isFreezing: 0
+  isHoming: 0

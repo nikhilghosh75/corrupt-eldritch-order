@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4bdb9d6e0a8792e43b8e76091d61bc95
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - classLocked: {fileID: 11400000, guid: 9f67ac7dbbd1a3045bb4c07882346c36, type: 2}
+  - classSelected: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  - menuManager: {instanceID: 0}
+  - speedDisplay: {instanceID: 0}
+  - damageDisplay: {instanceID: 0}
+  - healthDisplay: {instanceID: 0}
+  - manaChargeDisplay: {instanceID: 0}
+  - rollDistanceDisplay: {instanceID: 0}
+  - fireRateDisplay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

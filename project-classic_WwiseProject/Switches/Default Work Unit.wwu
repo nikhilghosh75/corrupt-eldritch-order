@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{18A60025-901D-4886-85DE-C19C0649B73B}" SchemaVersion="110">
+	<Switches>
+		<WorkUnit Name="Default Work Unit" ID="{18A60025-901D-4886-85DE-C19C0649B73B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Ambience" ID="{53A5DADA-0819-49BC-AFE5-57595CB71D1C}">
+					<ChildrenList>
+						<Switch Name="Industrial" ID="{FA80F91B-9B10-4870-9F93-B2B4811B5EFD}"/>
+						<Switch Name="Organic" ID="{13F2385D-7752-49ED-B761-7D42B1E59AF6}"/>
+						<Switch Name="Overgrown" ID="{028D247B-3146-4E97-BB72-56184BC3F89A}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</Switches>
+</WwiseDocument>

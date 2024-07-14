@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a22ec575f4a0dfc48909595fee14e2ae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerController: {instanceID: 0}
+  - weakWeapon: {instanceID: 0}
+  - strongWeapon: {instanceID: 0}
+  - comboWeapon: {instanceID: 0}
+  - weaponBone: {instanceID: 0}
+  - sr: {instanceID: 0}
+  - firePoint: {instanceID: 0}
+  - projectilePool: {instanceID: 0}
+  - weaponDatabase: {instanceID: 0}
+  - insufficientMana: {fileID: 11400000, guid: 86595cea01160444ca1bc81416ddd03a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9b7a6a313943d3a4ba2691ff5ab49ec0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - placeholderHover: {fileID: 11400000, guid: e3376fd6f25c6bd46b8a87d9a0d42a99, type: 2}
+  - placeholderSelect: {fileID: 11400000, guid: f4afa4eebc4e37f4fb51878e41d558e1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

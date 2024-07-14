@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f220672d378b06c4b9b138d51a21c918, type: 3}
+  m_Name: All Weapons
+  m_EditorClassIdentifier: 
+  weapons:
+  - soweapon: {fileID: 11400000, guid: 93eca3f9f2766914ca5786b4f4fbcb15, type: 2}
+    name: MiniMachineGun
+    type: 0
+    weapon: 1
+    droppedPowerupPrefab: {fileID: 1529758642995746212, guid: 928e2f66c3953d24e9f82d678d3011ad, type: 3}
+  - soweapon: {fileID: 11400000, guid: a25269d52b8091442a3dd5a3bfb53901, type: 2}
+    name: Revolver
+    type: 0
+    weapon: 2
+    droppedPowerupPrefab: {fileID: 1529758642995746212, guid: 6814f5ec68e60074398f314141b123b5, type: 3}
+  - soweapon: {fileID: 11400000, guid: c6e424d1165531f48b140a7f04a39630, type: 2}
+    name: ManaExtractor
+    type: 0
+    weapon: 3
+    droppedPowerupPrefab: {fileID: 1529758642995746212, guid: f11944b6ba122784995a26891b66d6eb, type: 3}
+  - soweapon: {fileID: 11400000, guid: da95a2aa667cd3a4da44792cc11826b5, type: 2}
+    name: Explosive
+    type: 1
+    weapon: 4
+    droppedPowerupPrefab: {fileID: 1529758642995746212, guid: 4914106d4ab746744a5fb9ea8d38c2db, type: 3}
+  - soweapon: {fileID: 11400000, guid: b836b604a996e3441864d0fcef3308bf, type: 2}
+    name: Sniper
+    type: 1
+    weapon: 5
+    droppedPowerupPrefab: {fileID: 1529758642995746212, guid: 9a82155ad787a0d4386b08391065f3ea, type: 3}
+  - soweapon: {fileID: 11400000, guid: 095c7611ca7ed17488431d37304c10a9, type: 2}
+    name: Flamethrower
+    type: 1
+    weapon: 6
+    droppedPowerupPrefab: {fileID: 1529758642995746212, guid: 245c9e3fd1178964a97ffdcf92f802f5, type: 3}
+  comboData:
+  - weakWeapon: {fileID: 11400000, guid: 93eca3f9f2766914ca5786b4f4fbcb15, type: 2}
+    strongWeapon: {fileID: 11400000, guid: da95a2aa667cd3a4da44792cc11826b5, type: 2}
+    comboWeapon: {fileID: 11400000, guid: 91f72c0dc89019f4c8855ff9c3caa5de, type: 2}
+  - weakWeapon: {fileID: 11400000, guid: 93eca3f9f2766914ca5786b4f4fbcb15, type: 2}
+    strongWeapon: {fileID: 11400000, guid: b836b604a996e3441864d0fcef3308bf, type: 2}
+    comboWeapon: {fileID: 11400000, guid: 398d8b4495dfe354dbf361a0b06b93a9, type: 2}
+  - weakWeapon: {fileID: 11400000, guid: 93eca3f9f2766914ca5786b4f4fbcb15, type: 2}
+    strongWeapon: {fileID: 11400000, guid: 095c7611ca7ed17488431d37304c10a9, type: 2}
+    comboWeapon: {fileID: 11400000, guid: 116bffe74006f58459c8892c35d6eb4e, type: 2}
+  - weakWeapon: {fileID: 11400000, guid: a25269d52b8091442a3dd5a3bfb53901, type: 2}
+    strongWeapon: {fileID: 11400000, guid: da95a2aa667cd3a4da44792cc11826b5, type: 2}
+    comboWeapon: {fileID: 11400000, guid: cec62c9179613114d925ed2c32a8178c, type: 2}
+  - weakWeapon: {fileID: 11400000, guid: a25269d52b8091442a3dd5a3bfb53901, type: 2}
+    strongWeapon: {fileID: 11400000, guid: 095c7611ca7ed17488431d37304c10a9, type: 2}
+    comboWeapon: {fileID: 11400000, guid: c2463619f985fbf4b931ef6fc3013c26, type: 2}
+  - weakWeapon: {fileID: 11400000, guid: a25269d52b8091442a3dd5a3bfb53901, type: 2}
+    strongWeapon: {fileID: 11400000, guid: b836b604a996e3441864d0fcef3308bf, type: 2}
+    comboWeapon: {fileID: 11400000, guid: 4c2fde7a30590014ba1c9bd6f3a8aa75, type: 2}
+  - weakWeapon: {fileID: 11400000, guid: c6e424d1165531f48b140a7f04a39630, type: 2}
+    strongWeapon: {fileID: 11400000, guid: da95a2aa667cd3a4da44792cc11826b5, type: 2}
+    comboWeapon: {fileID: 11400000, guid: d1b03e4f57eb82348b3647c34036e1b8, type: 2}
+  - weakWeapon: {fileID: 11400000, guid: c6e424d1165531f48b140a7f04a39630, type: 2}
+    strongWeapon: {fileID: 11400000, guid: 095c7611ca7ed17488431d37304c10a9, type: 2}
+    comboWeapon: {fileID: 11400000, guid: 986b8969781befe45b84ed615ed3d046, type: 2}
+  - weakWeapon: {fileID: 11400000, guid: c6e424d1165531f48b140a7f04a39630, type: 2}
+    strongWeapon: {fileID: 11400000, guid: b836b604a996e3441864d0fcef3308bf, type: 2}
+    comboWeapon: {fileID: 11400000, guid: fcbce0ec1340d864090343a9d98a6a19, type: 2}

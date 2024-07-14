@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e3be9a1e007a74ddfbd48a3f5016e6b9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - switchedPlatform: {instanceID: 0}
+  - timeTrapSwitch: {fileID: 11400000, guid: c38e86a8b26cc6d4483a238f7419982e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

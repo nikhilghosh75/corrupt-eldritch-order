@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ad81e9452719f446af77d6df09e2ef5, type: 3}
+  m_Name: Volatile Eyeball
+  m_EditorClassIdentifier: 
+  weaponSprite: {fileID: 21300000, guid: d7b9e129c4bef894b8f9633b92208870, type: 3}
+  weaponIcon: {fileID: -389758227, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  bulletPrefab: {fileID: 83019648891686941, guid: 9c732d300920be645badf095818c75d4, type: 3}
+  type: 1
+  weapon: 4
+  unlockedByDefault: 1
+  damage: 1500
+  fireCooldown: 2
+  bulletSpeed: 30
+  timeUntilDestroy: 10
+  bulletSpread: 1
+  pierce: 0
+  manaRecovered: 0
+  manaConsumed: 0
+  shotgunSpread: 0
+  bulletsFired: 1

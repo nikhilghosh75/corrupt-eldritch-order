@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f6447f8cd070b44983e9a97e11a750, type: 3}
+  m_Name: 7A2AEB94-CD17-4BD7-A37D-7DE50F96C9CE
+  m_EditorClassIdentifier: 
+  objectName: Warlock_Death
+  id: 1625236547
+  guid: 7A2AEB94-CD17-4BD7-A37D-7DE50F96C9CE

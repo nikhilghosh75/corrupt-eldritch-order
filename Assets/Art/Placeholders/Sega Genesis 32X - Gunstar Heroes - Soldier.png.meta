@@ -1,0 +1,4174 @@
+fileFormatVersion: 2
+guid: f4fb4146850055742afa79774a5e08ef
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 644
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b49f66a779f2548b14182eee7739e6
+      internalID: 1642305832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 644
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650e4d470b7ea1941ae31d9625ca836c
+      internalID: -1994039143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 644
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ea87a9f63dd1242b1a22e55c0af167
+      internalID: 1089105234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 644
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd034c24de00d3a4b8c655ccd72f6313
+      internalID: -1524772432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 644
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04fd612b836f4f439c6939d453de017
+      internalID: 1147051404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 644
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550f3fae147ed4449a612d21f20dcab4
+      internalID: -262774006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 639
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042a764f142fad44f8e4d961d5542f1a
+      internalID: 1588011079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 639
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99590d505836cd449b970f4cb22f6f6e
+      internalID: -1736595314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 638
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f77e797f24e88d428e5bc660f2b8350
+      internalID: 1798670519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 638
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc8fdd45a0cd3842be6daec241108b0
+      internalID: 1387455872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_10
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 636
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b74396195e27794d93d4a8012b2c272
+      internalID: -2088785713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 646
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbeedb632f563f4ab3daa4b1da402f7
+      internalID: -1189862088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 646
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512d4180f9d7374180825a0e129d508
+      internalID: -1951827469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_13
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 632
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e78b1280eba3d418a5e4ed35c8bc98
+      internalID: 421985587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_14
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 634
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0844b5e3e8c8c0540be96ff0bf366890
+      internalID: 1845531061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 634
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523fbc96162e1a14fb86adea6fcdedc0
+      internalID: -359842107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_16
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 645
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fbe44e2aced3840b1a90937b67817a
+      internalID: -1888243550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_17
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 643
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112f90cbcdb9e34f9e80eac56b92f7e
+      internalID: 1867742501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_18
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 638
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1efef807f8ca9d43b4d4f383506fe8c
+      internalID: -698682584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_19
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 644
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97759eb567102cb4f8a40e45a9ea7c49
+      internalID: -358077502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_20
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 644
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85d9f6deee9b324091aa2c739445bb6
+      internalID: 1278490908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_21
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df0923ea24177479eb2a0baa70c6b6
+      internalID: 499388178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_22
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 644
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98fc2f8b6d6d5d44b3fb37afbbc58a8
+      internalID: 240786598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_23
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 644
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221a663d949eefd4c8c83f83fcabb380
+      internalID: -902908976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_24
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 644
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f62b469b4c1e745b9877890d5af3a2
+      internalID: 642168354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_25
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 599
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf6b67b08afa9f42b5e0532dcff8fd2
+      internalID: -335290756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_26
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 599
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66692b33a5abf2948a9950b21e8b3b18
+      internalID: 402199869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_27
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 599
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e576f39fc427dfe479f3b6e880d12ea0
+      internalID: -259370215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_28
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 620
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f61e384f308e3498e1054e75a7c556
+      internalID: -1456997944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_29
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 620
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5378aa6818646184e954a65d20d33576
+      internalID: -1086479980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_30
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 620
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ff5ffbb3c7a44388a56fe94a0e613
+      internalID: 1766967559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_31
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 620
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a888a5f2eeb88664a902bafcd4148995
+      internalID: 621413731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 566
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3428b51010ae54685489061c1fe347
+      internalID: 200297007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 566
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2ff08e232aa8741903dc3774199e70
+      internalID: 1634704632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_34
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 565
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1901cd7731398b24398ed9d35c179e63
+      internalID: -1321367324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_35
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 563
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfeffde4906d3c47a64ae5536c46bf0
+      internalID: -947021406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_36
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 563
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233079897481a2c4f800fdd2018f232e
+      internalID: 516881214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_37
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 563
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9fc011baf7e1e48ac7a48930096110
+      internalID: -1160695356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_38
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 563
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed36ec1cafbdf64795f6e16d1dafe95
+      internalID: -849686604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_39
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 563
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2a62fa768c3a843b6772f9983a0b50
+      internalID: 1785332637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_40
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 600
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b323bc8f1a8f448bfe6813027b641
+      internalID: 370481852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 566
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783c1416f50e8da4482d812605244d57
+      internalID: 618860192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 566
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306390aca3073746bb283c846da3399
+      internalID: -1691303343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 566
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d7b6553d93044c95667d1223d8d68
+      internalID: 639729917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 566
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b380306fea46e740bc2f245e63d89e2
+      internalID: -850645977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_45
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 566
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4c6184c17a4749b1038654ac566e7
+      internalID: 2018466213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_46
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 566
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa9999b5f741fc4db60fea6685245b9
+      internalID: -708822209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 565
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133c4cb534623224aad3138500005e3e
+      internalID: 1755397532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_48
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 563
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f75ef6d16f814ea7b401e74cd52d6
+      internalID: -1623785973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_49
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 572
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec0d870bc2e3f459a779fe92baf53f
+      internalID: 1305815277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_50
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 558
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd375483b096614eaf501452377b603
+      internalID: 1882041427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 539
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b131608738654be45bd91a831f8780f3
+      internalID: 1008302900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_52
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 540
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee65dc94421e749aceba6fee4828c3
+      internalID: -29734688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_53
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 540
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b9ef84e4402b41bffa749fb57d26a
+      internalID: -489577286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_54
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 540
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4a44b299acf984b985e180d89709fe
+      internalID: -1993758964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_55
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 541
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c557394bbc4ee204ea474a98453b7674
+      internalID: 1804079557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 508
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9949d54cfc767842bb60dd194c1c708
+      internalID: 952180297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 508
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58202b03f16de684aa77feb7ac71ef1d
+      internalID: -1838387018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 508
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b66b98f9a9f7a46af74d372cc0e571
+      internalID: 1575688013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 507
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e38312cdec2394cbc3efd27bde8507
+      internalID: 2110448343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_60
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 506
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2207d86474cfb444967f21e5c1e995b
+      internalID: -1004429322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_61
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 505
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7696c24a263e942b3f6b52539c584b
+      internalID: -76021729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_62
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 505
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5819855f85e1aea44a98d3921e1a98d2
+      internalID: 1752563084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 505
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b7c374fe759e045ac755d94390e1ba
+      internalID: -626247879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_64
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 505
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367554093cf8fd14f986561899b9b0a3
+      internalID: -397105162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 506
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30572168067756b48ada57e0813547de
+      internalID: -1196227313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_66
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 506
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f15f8f90e893c4bb8a9b59ecc1dba7
+      internalID: 500811270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_67
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 506
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dabdec2fc7961347bd12eb53126fb7c
+      internalID: -1067438835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_68
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 506
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f80dff9c8b78498384c376e18fbfa
+      internalID: -1235303032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_69
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 529
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b773d531b7135949b58fda97f142384
+      internalID: -1430943214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_70
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 506
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb86af81b5d7f34b8ed8af3a181046a
+      internalID: -1789634872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_71
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 507
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3f02d6e37fbe74a944397300128f47
+      internalID: -1589023466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_72
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 506
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d54a3f8114db1c4ab3772552b993e9a
+      internalID: 772867930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_73
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 506
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b519dc74ca86e4b4fb857faeefe442cc
+      internalID: -350255114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_74
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 506
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0cd926cfb4e049893cb5babbce25c
+      internalID: -1309729414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 444
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ff05a91f3bb548898dfaa56b39da6
+      internalID: -355370540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_76
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 444
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036db187bb87cc4468da2d9ba4b781a8
+      internalID: -1211050113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 444
+        width: 20
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b3aef237340e24f8d612727886bf27
+      internalID: -698498251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_78
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 444
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e66ebefdb545c04eb6d6161a0afe1dd
+      internalID: -512960292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 444
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32c8a2fc6ef56d44924dc79bdd62679
+      internalID: -967702918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 443
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdd1a624300e8543b6055d376e2be57
+      internalID: -1774143761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_81
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 443
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629d76232c41b484abb947cefdc31c28
+      internalID: -1178555631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_82
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 443
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cece415115598a4a974ba398dfc7e68
+      internalID: 994836634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 442
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e01e8e1f4191d048b0b2470cf2b598a
+      internalID: -2065853957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_84
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 442
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d62f3facc50a594eb76af6d82bd4c84
+      internalID: 948664499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 441
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346af43ea4b621b49b9c8b3ff3eac9e6
+      internalID: -1526358769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_86
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 441
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23998b4d8cd549a429884cc3ce005e5c
+      internalID: 1758798788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_87
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 441
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f58ff93e9b03949a62933f78f4d596
+      internalID: -616185141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_88
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 441
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0d1644439adb5419d501f499db3fcf
+      internalID: 597757836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_89
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 441
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09061cf29e233542a19c53b6afa9ffd
+      internalID: -840420958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_90
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 441
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc4e4fba6b0bde478c1bfdf6c07cb80
+      internalID: -1833188329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_91
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 442
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533c8179de6aa0a4780d91d96354f0e5
+      internalID: -1454562279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_92
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 442
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca61924147f8e7c468588c297472e88e
+      internalID: -1666967919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_93
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 442
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace192c65871404593e3c21de0829a4
+      internalID: 539324495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_94
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 442
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465c766923c2324b9e744edc55b894e
+      internalID: -1778825672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_95
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 442
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6e997021e3fe144a2ac8745563913d
+      internalID: 978645719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_96
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 442
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef068457e1e5ee44ba423cbb5d503b4b
+      internalID: 1180760002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_97
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 442
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a3042670fd27942b7f2f176111d7a8
+      internalID: -1721162411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 393
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca7dc5ca5b14a04397a02b6d799931e
+      internalID: 64273020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_99
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 393
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9663f7ca3c7565a48a46d50fb79d3a74
+      internalID: 1880217157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_100
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 393
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a1c41e021575346931daa7c3baeb1f
+      internalID: 859643828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_101
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 393
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0278ec8b9c5941429cbcbffbb75f30b
+      internalID: -203394480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_102
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 393
+        width: 32
+        height: 35
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da03aa7b10357e48bfb86596d6d620c
+      internalID: -22585421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_103
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 393
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e77acbc4b51bc4ebaa69397896658a
+      internalID: -1194341095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_104
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 394
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a85b62d07428e44fa22f343175c581b
+      internalID: 1644714360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_105
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 394
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1606edbdfda4c5540820df9723814d78
+      internalID: 612206640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_106
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 394
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9659e646bd2834c9e1fe7c2f915858
+      internalID: 981620069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 385
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f65bd30309a2c4bb10bead17b9c121
+      internalID: -1583217330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_108
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 385
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede94c5139d463548beb70f83d10de6c
+      internalID: -2134745722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_109
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 385
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f929f83d2f16f44faa8466a708af20a
+      internalID: -954612673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_110
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 385
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7236d99b022ef54d9a5e6351efa8057
+      internalID: 1254581295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_111
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 385
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1e96be5d26b004b8da9935e4538fbe
+      internalID: -555272212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_112
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 384
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a0acfc5a3a1224195e754cadb77db5
+      internalID: -1536360646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_113
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 383
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa22504310a33e2459a879532d5101f7
+      internalID: 1585637880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_114
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 384
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2a93f1ca770b04e8d6212bbdacfe1c
+      internalID: 50671217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_115
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 383
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4306de9a870a07749bab67ba8dc9355e
+      internalID: -1285331255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_116
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 383
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d143935e32e9446a14e6983dbfcffd
+      internalID: 1969460266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_117
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 383
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4182e792d68949b54c0665ae3e2db
+      internalID: -1154031913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_118
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 383
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11400a24cb38448bc9932d522bc5cf
+      internalID: -584210576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_119
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 382
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244f66238b094845b2cd0d21805a3de
+      internalID: 1328492974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_120
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 382
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba0f70db25d5e34e815d825e949e9ed
+      internalID: 573528515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_121
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 382
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f74e058e2157fd419a3308413c37e24
+      internalID: -1271070382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_122
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 382
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cdd79262dbd5846adf3e670df06aa0
+      internalID: -1954303857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_123
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 382
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f3c0d432eb1e4c9a18195c78ad5ab
+      internalID: 1482228100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_124
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 347
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b10a6e8344a914a99216a688900bda
+      internalID: -819196180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_125
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 347
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838705ada81f01b4ca1abf5dff481887
+      internalID: 2111955505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_126
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 347
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b316c04655cd6fc4ab73959c16b5b2a8
+      internalID: -614928679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_127
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 347
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788306fa5287bf64aa55925cb15beed5
+      internalID: -1637853113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_128
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 345
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdac5137f1ee53b4cbf0dac70f8fa572
+      internalID: -361189153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_129
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 335
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d264ed710b54f247b41777072df8d6d
+      internalID: -1412594826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_130
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 333
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d610b586bf902449b9624bf79b3a75d
+      internalID: -1260800589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_131
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 339
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa6d9d9ca7d0a4ea200c15b662535c
+      internalID: -1768830719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_132
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 338
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8524299aea812334d906b9d0356b22ba
+      internalID: 2025215668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_133
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 339
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d87b9f2304d746adbaf72ed49008b
+      internalID: -1366110741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_134
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 326
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebbba52d26a3704989456f39a180580
+      internalID: 2021481673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_135
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 329
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96c338d52d173e47be6e09e698e280c
+      internalID: 820761882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_136
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 329
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568b5b904f959324a9130fa3e1056d51
+      internalID: -2146067119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_137
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 330
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0292ee5aa21de49bac7a21437031ab
+      internalID: 205200937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_138
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 330
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f6517bc73232a43b774ca091a4f813
+      internalID: 476462546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_139
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 330
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56874ce410339b94a98886589e4b82bb
+      internalID: 1087179675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_140
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 330
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6259138ee3090a64b9906650c7a537b7
+      internalID: -1756462221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_141
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 325
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085ed598298a32843b79daee4deb4b82
+      internalID: 414892497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_142
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 325
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff7ea1fe39dd03419f646c04c2f91c0
+      internalID: -1708356952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_143
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 325
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e352acfb2d943f341a5fc7992d66c6ca
+      internalID: -1580778925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_144
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 325
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa106684a1f9894eb54fd1b0ab987d8
+      internalID: -386058212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_145
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 279
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024e5c6543cb0e14fa0879a920619ccc
+      internalID: 437637805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_146
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 279
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fe89bca17f38b498b5e75c7836cb2b
+      internalID: 680511329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_147
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 279
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0e9c05413c4ee46aebe2c3d3bf0de9
+      internalID: -1028435149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_148
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 282
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3e429615f661d4983b117c47bdd183
+      internalID: 1175591402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_149
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 282
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e1564c068c5849b46ca5b6c0c62c6
+      internalID: -1123127846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_150
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 282
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6236404049a7e498acad9f5b4a5938
+      internalID: 1068487956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_151
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 282
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab23658342337b45b44ea1f4a718af0
+      internalID: 1084217291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_152
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 282
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fcb81f13ed29346a809750e34d49b7
+      internalID: 1088776887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_153
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 282
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8287a4bcee05043b6b0535096496ab
+      internalID: 1607047308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_154
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 148
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc4500a20edba4296a5f9968fdb0a4
+      internalID: 277058562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_155
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 148
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a7382e5401ad641a0abaa060b5c795
+      internalID: 1749491143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_156
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 148
+        width: 128
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1431c56be37ec4429a6884a384ee0d3
+      internalID: 2093750492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_157
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 251
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ca09a9f67624341bc0560c9969e510
+      internalID: -1220463611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_158
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 251
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779cc6a6ab49398468066257b18c7465
+      internalID: -1677769052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_159
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 251
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7ad7571679acd45b58af47c5c4405e
+      internalID: -1159972300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_160
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 251
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be527da0f7dce499f81dc21a28e965
+      internalID: 1573267403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_161
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 218
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95d3f9f0105e6842b16e1658a129395
+      internalID: -2381739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_162
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 218
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbc26102c243e44caf37a9c09bc3270
+      internalID: 1364858061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_163
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 218
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35371ddbc4a60c2439347a56d2bab043
+      internalID: 46557329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_164
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 192
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666fc3201ec64d4f9000970ad7b2b1d
+      internalID: -1109901087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_165
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 192
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f89bdc5a55c8bc4387181ebce3896b6
+      internalID: 1048591722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_166
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 192
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b527d047218614cb75684904924da7
+      internalID: 365145100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_167
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 192
+        width: 54
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b29d46fa49cabc4287358f613c4300e
+      internalID: -803038990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_168
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 170
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b71daa70f511284dbee53913bfc465e
+      internalID: 2075899753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_169
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 170
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71067c4589d514c4dbe790be595af953
+      internalID: 1999328055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_170
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 170
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78304e37644e2844c9fb76c2f84b2cb4
+      internalID: 1719870254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_171
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 173
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54a0a2a35a5f8243870b223e1561569
+      internalID: 321359693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_172
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 173
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2133c5a14e516f248bb57a21d01e7b4b
+      internalID: 1856177595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_173
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 128
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e43131b79736d047a6bfc16607a771e
+      internalID: -814038448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_174
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 44
+        width: 128
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ec77742614de43a4f2018a7ab4c38
+      internalID: -716031725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_175
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 43
+        width: 128
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f8ef5509b4b1146b39b556c81d22a0
+      internalID: 2138302794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_176
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 40
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7c4d5ec0cd8f445a6a5afd8147856c
+      internalID: -1812573304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_177
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 38
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112bfc8c28372c469755cd0632f9ce7
+      internalID: 490705968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_178
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 35
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf28b797c82e6448b01a102c8e86dd
+      internalID: 605542912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_179
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 33
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599be7a2def2d4347809b1c9a097262e
+      internalID: 1962218565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Soldier_180
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 33
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece66e903f1f4e647b03c74fa3f0af43
+      internalID: -749279164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sega Genesis 32X - Gunstar Heroes - Soldier_0: 1642305832
+      Sega Genesis 32X - Gunstar Heroes - Soldier_1: -1994039143
+      Sega Genesis 32X - Gunstar Heroes - Soldier_10: -2088785713
+      Sega Genesis 32X - Gunstar Heroes - Soldier_100: 859643828
+      Sega Genesis 32X - Gunstar Heroes - Soldier_101: -203394480
+      Sega Genesis 32X - Gunstar Heroes - Soldier_102: -22585421
+      Sega Genesis 32X - Gunstar Heroes - Soldier_103: -1194341095
+      Sega Genesis 32X - Gunstar Heroes - Soldier_104: 1644714360
+      Sega Genesis 32X - Gunstar Heroes - Soldier_105: 612206640
+      Sega Genesis 32X - Gunstar Heroes - Soldier_106: 981620069
+      Sega Genesis 32X - Gunstar Heroes - Soldier_107: -1583217330
+      Sega Genesis 32X - Gunstar Heroes - Soldier_108: -2134745722
+      Sega Genesis 32X - Gunstar Heroes - Soldier_109: -954612673
+      Sega Genesis 32X - Gunstar Heroes - Soldier_11: -1189862088
+      Sega Genesis 32X - Gunstar Heroes - Soldier_110: 1254581295
+      Sega Genesis 32X - Gunstar Heroes - Soldier_111: -555272212
+      Sega Genesis 32X - Gunstar Heroes - Soldier_112: -1536360646
+      Sega Genesis 32X - Gunstar Heroes - Soldier_113: 1585637880
+      Sega Genesis 32X - Gunstar Heroes - Soldier_114: 50671217
+      Sega Genesis 32X - Gunstar Heroes - Soldier_115: -1285331255
+      Sega Genesis 32X - Gunstar Heroes - Soldier_116: 1969460266
+      Sega Genesis 32X - Gunstar Heroes - Soldier_117: -1154031913
+      Sega Genesis 32X - Gunstar Heroes - Soldier_118: -584210576
+      Sega Genesis 32X - Gunstar Heroes - Soldier_119: 1328492974
+      Sega Genesis 32X - Gunstar Heroes - Soldier_12: -1951827469
+      Sega Genesis 32X - Gunstar Heroes - Soldier_120: 573528515
+      Sega Genesis 32X - Gunstar Heroes - Soldier_121: -1271070382
+      Sega Genesis 32X - Gunstar Heroes - Soldier_122: -1954303857
+      Sega Genesis 32X - Gunstar Heroes - Soldier_123: 1482228100
+      Sega Genesis 32X - Gunstar Heroes - Soldier_124: -819196180
+      Sega Genesis 32X - Gunstar Heroes - Soldier_125: 2111955505
+      Sega Genesis 32X - Gunstar Heroes - Soldier_126: -614928679
+      Sega Genesis 32X - Gunstar Heroes - Soldier_127: -1637853113
+      Sega Genesis 32X - Gunstar Heroes - Soldier_128: -361189153
+      Sega Genesis 32X - Gunstar Heroes - Soldier_129: -1412594826
+      Sega Genesis 32X - Gunstar Heroes - Soldier_13: 421985587
+      Sega Genesis 32X - Gunstar Heroes - Soldier_130: -1260800589
+      Sega Genesis 32X - Gunstar Heroes - Soldier_131: -1768830719
+      Sega Genesis 32X - Gunstar Heroes - Soldier_132: 2025215668
+      Sega Genesis 32X - Gunstar Heroes - Soldier_133: -1366110741
+      Sega Genesis 32X - Gunstar Heroes - Soldier_134: 2021481673
+      Sega Genesis 32X - Gunstar Heroes - Soldier_135: 820761882
+      Sega Genesis 32X - Gunstar Heroes - Soldier_136: -2146067119
+      Sega Genesis 32X - Gunstar Heroes - Soldier_137: 205200937
+      Sega Genesis 32X - Gunstar Heroes - Soldier_138: 476462546
+      Sega Genesis 32X - Gunstar Heroes - Soldier_139: 1087179675
+      Sega Genesis 32X - Gunstar Heroes - Soldier_14: 1845531061
+      Sega Genesis 32X - Gunstar Heroes - Soldier_140: -1756462221
+      Sega Genesis 32X - Gunstar Heroes - Soldier_141: 414892497
+      Sega Genesis 32X - Gunstar Heroes - Soldier_142: -1708356952
+      Sega Genesis 32X - Gunstar Heroes - Soldier_143: -1580778925
+      Sega Genesis 32X - Gunstar Heroes - Soldier_144: -386058212
+      Sega Genesis 32X - Gunstar Heroes - Soldier_145: 437637805
+      Sega Genesis 32X - Gunstar Heroes - Soldier_146: 680511329
+      Sega Genesis 32X - Gunstar Heroes - Soldier_147: -1028435149
+      Sega Genesis 32X - Gunstar Heroes - Soldier_148: 1175591402
+      Sega Genesis 32X - Gunstar Heroes - Soldier_149: -1123127846
+      Sega Genesis 32X - Gunstar Heroes - Soldier_15: -359842107
+      Sega Genesis 32X - Gunstar Heroes - Soldier_150: 1068487956
+      Sega Genesis 32X - Gunstar Heroes - Soldier_151: 1084217291
+      Sega Genesis 32X - Gunstar Heroes - Soldier_152: 1088776887
+      Sega Genesis 32X - Gunstar Heroes - Soldier_153: 1607047308
+      Sega Genesis 32X - Gunstar Heroes - Soldier_154: 277058562
+      Sega Genesis 32X - Gunstar Heroes - Soldier_155: 1749491143
+      Sega Genesis 32X - Gunstar Heroes - Soldier_156: 2093750492
+      Sega Genesis 32X - Gunstar Heroes - Soldier_157: -1220463611
+      Sega Genesis 32X - Gunstar Heroes - Soldier_158: -1677769052
+      Sega Genesis 32X - Gunstar Heroes - Soldier_159: -1159972300
+      Sega Genesis 32X - Gunstar Heroes - Soldier_16: -1888243550
+      Sega Genesis 32X - Gunstar Heroes - Soldier_160: 1573267403
+      Sega Genesis 32X - Gunstar Heroes - Soldier_161: -2381739
+      Sega Genesis 32X - Gunstar Heroes - Soldier_162: 1364858061
+      Sega Genesis 32X - Gunstar Heroes - Soldier_163: 46557329
+      Sega Genesis 32X - Gunstar Heroes - Soldier_164: -1109901087
+      Sega Genesis 32X - Gunstar Heroes - Soldier_165: 1048591722
+      Sega Genesis 32X - Gunstar Heroes - Soldier_166: 365145100
+      Sega Genesis 32X - Gunstar Heroes - Soldier_167: -803038990
+      Sega Genesis 32X - Gunstar Heroes - Soldier_168: 2075899753
+      Sega Genesis 32X - Gunstar Heroes - Soldier_169: 1999328055
+      Sega Genesis 32X - Gunstar Heroes - Soldier_17: 1867742501
+      Sega Genesis 32X - Gunstar Heroes - Soldier_170: 1719870254
+      Sega Genesis 32X - Gunstar Heroes - Soldier_171: 321359693
+      Sega Genesis 32X - Gunstar Heroes - Soldier_172: 1856177595
+      Sega Genesis 32X - Gunstar Heroes - Soldier_173: -814038448
+      Sega Genesis 32X - Gunstar Heroes - Soldier_174: -716031725
+      Sega Genesis 32X - Gunstar Heroes - Soldier_175: 2138302794
+      Sega Genesis 32X - Gunstar Heroes - Soldier_176: -1812573304
+      Sega Genesis 32X - Gunstar Heroes - Soldier_177: 490705968
+      Sega Genesis 32X - Gunstar Heroes - Soldier_178: 605542912
+      Sega Genesis 32X - Gunstar Heroes - Soldier_179: 1962218565
+      Sega Genesis 32X - Gunstar Heroes - Soldier_18: -698682584
+      Sega Genesis 32X - Gunstar Heroes - Soldier_180: -749279164
+      Sega Genesis 32X - Gunstar Heroes - Soldier_19: -358077502
+      Sega Genesis 32X - Gunstar Heroes - Soldier_2: 1089105234
+      Sega Genesis 32X - Gunstar Heroes - Soldier_20: 1278490908
+      Sega Genesis 32X - Gunstar Heroes - Soldier_21: 499388178
+      Sega Genesis 32X - Gunstar Heroes - Soldier_22: 240786598
+      Sega Genesis 32X - Gunstar Heroes - Soldier_23: -902908976
+      Sega Genesis 32X - Gunstar Heroes - Soldier_24: 642168354
+      Sega Genesis 32X - Gunstar Heroes - Soldier_25: -335290756
+      Sega Genesis 32X - Gunstar Heroes - Soldier_26: 402199869
+      Sega Genesis 32X - Gunstar Heroes - Soldier_27: -259370215
+      Sega Genesis 32X - Gunstar Heroes - Soldier_28: -1456997944
+      Sega Genesis 32X - Gunstar Heroes - Soldier_29: -1086479980
+      Sega Genesis 32X - Gunstar Heroes - Soldier_3: -1524772432
+      Sega Genesis 32X - Gunstar Heroes - Soldier_30: 1766967559
+      Sega Genesis 32X - Gunstar Heroes - Soldier_31: 621413731
+      Sega Genesis 32X - Gunstar Heroes - Soldier_32: 200297007
+      Sega Genesis 32X - Gunstar Heroes - Soldier_33: 1634704632
+      Sega Genesis 32X - Gunstar Heroes - Soldier_34: -1321367324
+      Sega Genesis 32X - Gunstar Heroes - Soldier_35: -947021406
+      Sega Genesis 32X - Gunstar Heroes - Soldier_36: 516881214
+      Sega Genesis 32X - Gunstar Heroes - Soldier_37: -1160695356
+      Sega Genesis 32X - Gunstar Heroes - Soldier_38: -849686604
+      Sega Genesis 32X - Gunstar Heroes - Soldier_39: 1785332637
+      Sega Genesis 32X - Gunstar Heroes - Soldier_4: 1147051404
+      Sega Genesis 32X - Gunstar Heroes - Soldier_40: 370481852
+      Sega Genesis 32X - Gunstar Heroes - Soldier_41: 618860192
+      Sega Genesis 32X - Gunstar Heroes - Soldier_42: -1691303343
+      Sega Genesis 32X - Gunstar Heroes - Soldier_43: 639729917
+      Sega Genesis 32X - Gunstar Heroes - Soldier_44: -850645977
+      Sega Genesis 32X - Gunstar Heroes - Soldier_45: 2018466213
+      Sega Genesis 32X - Gunstar Heroes - Soldier_46: -708822209
+      Sega Genesis 32X - Gunstar Heroes - Soldier_47: 1755397532
+      Sega Genesis 32X - Gunstar Heroes - Soldier_48: -1623785973
+      Sega Genesis 32X - Gunstar Heroes - Soldier_49: 1305815277
+      Sega Genesis 32X - Gunstar Heroes - Soldier_5: -262774006
+      Sega Genesis 32X - Gunstar Heroes - Soldier_50: 1882041427
+      Sega Genesis 32X - Gunstar Heroes - Soldier_51: 1008302900
+      Sega Genesis 32X - Gunstar Heroes - Soldier_52: -29734688
+      Sega Genesis 32X - Gunstar Heroes - Soldier_53: -489577286
+      Sega Genesis 32X - Gunstar Heroes - Soldier_54: -1993758964
+      Sega Genesis 32X - Gunstar Heroes - Soldier_55: 1804079557
+      Sega Genesis 32X - Gunstar Heroes - Soldier_56: 952180297
+      Sega Genesis 32X - Gunstar Heroes - Soldier_57: -1838387018
+      Sega Genesis 32X - Gunstar Heroes - Soldier_58: 1575688013
+      Sega Genesis 32X - Gunstar Heroes - Soldier_59: 2110448343
+      Sega Genesis 32X - Gunstar Heroes - Soldier_6: 1588011079
+      Sega Genesis 32X - Gunstar Heroes - Soldier_60: -1004429322
+      Sega Genesis 32X - Gunstar Heroes - Soldier_61: -76021729
+      Sega Genesis 32X - Gunstar Heroes - Soldier_62: 1752563084
+      Sega Genesis 32X - Gunstar Heroes - Soldier_63: -626247879
+      Sega Genesis 32X - Gunstar Heroes - Soldier_64: -397105162
+      Sega Genesis 32X - Gunstar Heroes - Soldier_65: -1196227313
+      Sega Genesis 32X - Gunstar Heroes - Soldier_66: 500811270
+      Sega Genesis 32X - Gunstar Heroes - Soldier_67: -1067438835
+      Sega Genesis 32X - Gunstar Heroes - Soldier_68: -1235303032
+      Sega Genesis 32X - Gunstar Heroes - Soldier_69: -1430943214
+      Sega Genesis 32X - Gunstar Heroes - Soldier_7: -1736595314
+      Sega Genesis 32X - Gunstar Heroes - Soldier_70: -1789634872
+      Sega Genesis 32X - Gunstar Heroes - Soldier_71: -1589023466
+      Sega Genesis 32X - Gunstar Heroes - Soldier_72: 772867930
+      Sega Genesis 32X - Gunstar Heroes - Soldier_73: -350255114
+      Sega Genesis 32X - Gunstar Heroes - Soldier_74: -1309729414
+      Sega Genesis 32X - Gunstar Heroes - Soldier_75: -355370540
+      Sega Genesis 32X - Gunstar Heroes - Soldier_76: -1211050113
+      Sega Genesis 32X - Gunstar Heroes - Soldier_77: -698498251
+      Sega Genesis 32X - Gunstar Heroes - Soldier_78: -512960292
+      Sega Genesis 32X - Gunstar Heroes - Soldier_79: -967702918
+      Sega Genesis 32X - Gunstar Heroes - Soldier_8: 1798670519
+      Sega Genesis 32X - Gunstar Heroes - Soldier_80: -1774143761
+      Sega Genesis 32X - Gunstar Heroes - Soldier_81: -1178555631
+      Sega Genesis 32X - Gunstar Heroes - Soldier_82: 994836634
+      Sega Genesis 32X - Gunstar Heroes - Soldier_83: -2065853957
+      Sega Genesis 32X - Gunstar Heroes - Soldier_84: 948664499
+      Sega Genesis 32X - Gunstar Heroes - Soldier_85: -1526358769
+      Sega Genesis 32X - Gunstar Heroes - Soldier_86: 1758798788
+      Sega Genesis 32X - Gunstar Heroes - Soldier_87: -616185141
+      Sega Genesis 32X - Gunstar Heroes - Soldier_88: 597757836
+      Sega Genesis 32X - Gunstar Heroes - Soldier_89: -840420958
+      Sega Genesis 32X - Gunstar Heroes - Soldier_9: 1387455872
+      Sega Genesis 32X - Gunstar Heroes - Soldier_90: -1833188329
+      Sega Genesis 32X - Gunstar Heroes - Soldier_91: -1454562279
+      Sega Genesis 32X - Gunstar Heroes - Soldier_92: -1666967919
+      Sega Genesis 32X - Gunstar Heroes - Soldier_93: 539324495
+      Sega Genesis 32X - Gunstar Heroes - Soldier_94: -1778825672
+      Sega Genesis 32X - Gunstar Heroes - Soldier_95: 978645719
+      Sega Genesis 32X - Gunstar Heroes - Soldier_96: 1180760002
+      Sega Genesis 32X - Gunstar Heroes - Soldier_97: -1721162411
+      Sega Genesis 32X - Gunstar Heroes - Soldier_98: 64273020
+      Sega Genesis 32X - Gunstar Heroes - Soldier_99: 1880217157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

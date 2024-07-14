@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e8529407d2526446a8e9cc62305d1a6, type: 3}
+  m_Name: Mana Burst Combo Weapon
+  m_EditorClassIdentifier: 
+  displayName: Mana Burst
+  weaponSprite: {fileID: 21300000, guid: 69815d3cbfa07e243baf4102f0b74c89, type: 3}
+  weaponIcon: {fileID: 1002785257, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  weaponType: 9
+  descriptionText: Summons Mana around the player that homes in on the nearest enemy
+  drainRate: 2
+  radius: 2.5
+  manaBurstRate: 0.4
+  moveTime: 0.4
+  rotationSpeed: 400
+  manaBurstCooldown: 0.4
+  launchSpeed: 5
+  manaDrain: 2
+  manaBurstDamage: 300
+  manaBurstPrefab: {fileID: 83019648891686941, guid: f346e8289d0ede149b6b675f1452d048, type: 3}
+  enemiesLayerMask:
+    serializedVersion: 2
+    m_Bits: 1024
+  levelLayerMask:
+    serializedVersion: 2
+    m_Bits: 512

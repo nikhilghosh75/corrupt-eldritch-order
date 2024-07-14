@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b17aebe7b662764a89c4bc9792a1f26, type: 3}
+  m_Name: Impact Gun Combo Weapon
+  m_EditorClassIdentifier: 
+  displayName: Impact Gun
+  weaponSprite: {fileID: -1360285037, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  weaponIcon: {fileID: -1360285037, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  weaponType: 8
+  descriptionText: Equips a unique weapon that shoots high damage explosive bullets
+  drainRate: 5
+  weapon: {fileID: 11400000, guid: 1f17bdb218526ed4e906f4503be09d07, type: 2}
+  material: {fileID: 2100000, guid: 25725f83ee83e5e47be4df6f123fcd10, type: 2}
+  rendererData: {fileID: 11400000, guid: 527149480e72de244adc124cf6a187df, type: 2}

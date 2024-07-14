@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ad81e9452719f446af77d6df09e2ef5, type: 3}
+  m_Name: Essence Extractor
+  m_EditorClassIdentifier: 
+  weaponSprite: {fileID: 21300000, guid: 12e30c5dbda641548a098e41bb69399d, type: 3}
+  weaponIcon: {fileID: 1107127624, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  bulletPrefab: {fileID: 83019648891686941, guid: ff7b848c21b1e62469885f226f9e9769, type: 3}
+  type: 0
+  weapon: 3
+  unlockedByDefault: 0
+  damage: 400
+  fireCooldown: 0.5
+  bulletSpeed: 50
+  timeUntilDestroy: 3
+  bulletSpread: 2
+  pierce: 0
+  manaRecovered: 10
+  manaConsumed: 0
+  shotgunSpread: 0
+  bulletsFired: 1

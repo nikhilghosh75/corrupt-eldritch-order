@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505820247f9d63644b05b3fb3d3c4498, type: 3}
+  m_Name: Chain Lightning Combo Weapon
+  m_EditorClassIdentifier: 
+  displayName: Chain Lightning
+  weaponSprite: {fileID: -19269113, guid: d80121a1c89239a4d961b90aa9197ab9, type: 3}
+  weaponIcon: {fileID: -326790323, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  weaponType: 12
+  descriptionText: Powerups all weapons to be faster, do slightly more damage, and
+    chains between enemies when possible.
+  drainRate: 8
+  damageMultiplier: 1.3
+  bulletSpeedMultiplier: 3.2
+  numberOfChains: 5
+  damageChainMultiplier: 0.9
+  speedChainMultiplier: 1.1
+  enemyLayerMask:
+    serializedVersion: 2
+    m_Bits: 1024
+  levelLayerMask:
+    serializedVersion: 2
+    m_Bits: 512

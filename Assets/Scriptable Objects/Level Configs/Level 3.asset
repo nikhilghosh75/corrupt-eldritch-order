@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3696309e82da88243b2408a3e54302fe, type: 3}
+  m_Name: Level 3
+  m_EditorClassIdentifier: 
+  levelID: 3
+  minLevelLength: 11
+  maxLevelLength: 13
+  numShops: 2
+  levelChunks:
+  - {fileID: 1912751335100450952, guid: fac859aae0a08034d9f85b5a07124013, type: 3}
+  - {fileID: 5630499992282737623, guid: 0509c5a2ffaa6724aa497dddcf46bb89, type: 3}
+  - {fileID: 1912751335100450952, guid: 8c1627bf413693446a04cd7aa7bd8c09, type: 3}
+  - {fileID: 1912751335100450952, guid: 43c41ceacbc1dde4dadb35cca54c51ee, type: 3}
+  - {fileID: 1912751335100450952, guid: d6f0843d30e97794bbc42cd28b329b08, type: 3}
+  - {fileID: 1912751335100450952, guid: f0b35014c610ccf4b8c1775435ffefa5, type: 3}
+  - {fileID: 1912751335100450952, guid: 30aac616f8bcbe04b83728f6efd35974, type: 3}
+  - {fileID: 1912751335100450952, guid: 7238ce527870ede40bf8246a7f486ecf, type: 3}
+  - {fileID: 1912751335100450952, guid: c261931831b1e354ba88e8597dfcdc79, type: 3}
+  - {fileID: 1912751335100450952, guid: ad2c1dfc75f10254699852af8d3f8b8b, type: 3}
+  - {fileID: 1912751335100450952, guid: 4f543c70ee9d346f191b3c9215ba4465, type: 3}
+  - {fileID: 1912751335100450952, guid: ba61548ab1e31d04dbc1053d967750e1, type: 3}
+  - {fileID: 1912751335100450952, guid: 25e47768c22c6e9408bc5f158eb7789d, type: 3}
+  - {fileID: 1912751335100450952, guid: 44e672229dbe5174c8d0fa846f258da5, type: 3}
+  - {fileID: 1912751335100450952, guid: f5232b991b4b1324ca2500b18e41a7b1, type: 3}
+  - {fileID: 1912751335100450952, guid: c02f5cd2344357746929a9978b95f521, type: 3}
+  - {fileID: 1912751335100450952, guid: 93814e4b5f4019a498cf69e48f9d5edd, type: 3}
+  - {fileID: 1912751335100450952, guid: c5a3a3fc435743241b4f7152061632b4, type: 3}
+  - {fileID: 1912751335100450952, guid: 305a785dee43a354db9b9f7d87fb6d5e, type: 3}
+  - {fileID: 1912751335100450952, guid: 0423fc4fd33a4964a9f658f4ee3b8b70, type: 3}
+  - {fileID: 1912751335100450952, guid: f31a9c4ad4c86b947a146ea6a94f90e9, type: 3}
+  - {fileID: 1912751335100450952, guid: c9a95a9f077a7754d8f9cd990b999722, type: 3}
+  - {fileID: 1912751335100450952, guid: 1da2234c6ead0ea44a8d94429b7f2ea2, type: 3}
+  - {fileID: 1912751335100450952, guid: 185de81590a5ba942845f7e64299cc91, type: 3}
+  - {fileID: 1912751335100450952, guid: 1b987a499c63f8745b52f7d02348f629, type: 3}
+  - {fileID: 1912751335100450952, guid: 7ea244079c11d4944a9435f5d22fc852, type: 3}
+  - {fileID: 1912751335100450952, guid: fffff3e6b67af1949aecdef610cfe3ad, type: 3}
+  - {fileID: 1912751335100450952, guid: d340f3224a50a044f86e11f6ef05beef, type: 3}
+  - {fileID: 1912751335100450952, guid: fd7a5f1f37b304345a5484c27344fdc1, type: 3}
+  - {fileID: 1912751335100450952, guid: 97fbdc65aad8c44aa9ec306fe83e4a43, type: 3}
+  - {fileID: 1912751335100450952, guid: 44e672229dbe5174c8d0fa846f258da5, type: 3}
+  - {fileID: 1912751335100450952, guid: 2a32c8dc450f02040b5d6e5ccdeb2203, type: 3}
+  - {fileID: 1912751335100450952, guid: 7fef2096a00f4704f9d1cbcd340f595e, type: 3}
+  - {fileID: 1912751335100450952, guid: 4090f22417c31cf43ba20b9e94cea101, type: 3}
+  - {fileID: 1912751335100450952, guid: 625ad17c943a16047aeb5aa0de27f8f6, type: 3}
+  - {fileID: 1912751335100450952, guid: e34c8f4c05221b548ad2a3687213c01d, type: 3}
+  - {fileID: 1912751335100450952, guid: f5232b991b4b1324ca2500b18e41a7b1, type: 3}
+  - {fileID: 1912751335100450952, guid: 5c9999eadf06b764bbfcfd5949c88ec3, type: 3}
+  - {fileID: 1912751335100450952, guid: 7ecaddef379ded941932b524ebd9442c, type: 3}
+  - {fileID: 1912751335100450952, guid: f8435043829ce6a4595880a5772de729, type: 3}
+  - {fileID: 1912751335100450952, guid: d1e0ee887982fed4c8699848226d50f5, type: 3}
+  - {fileID: 1912751335100450952, guid: 7bab907b8cd6adc4a8ca02464223169b, type: 3}
+  directionChances:
+    upChance: 10
+    downChance: 1
+    leftChance: 1
+    rightChance: 1
+  enemyItems:
+    groundEnemies:
+    - enemy: {fileID: 9012419731071546668, guid: 63b96d335291f3e4a88aa9335f5dcdec, type: 3}
+      probability: 5
+    - enemy: {fileID: 1649618208081616243, guid: 561bf7784b301e246bcde6feaf5b47cf, type: 3}
+      probability: 10
+    - enemy: {fileID: 3995359626106814565, guid: 5b868f1224837014e9f2529a6a95d844, type: 3}
+      probability: 15
+    - enemy: {fileID: 7610850960096770283, guid: e484766c21c2bc34e89819eb38501c29, type: 3}
+      probability: 10
+    - enemy: {fileID: 1911235335951064399, guid: 9af959d11ef474550b0d5cc248e2cf23, type: 3}
+      probability: 10
+    flyingEnemies:
+    - enemy: {fileID: 1583202068361556556, guid: 356631a19e3c9a243bd703bb7c58939a, type: 3}
+      probability: 10
+    - enemy: {fileID: 1583202068361556556, guid: 8535d3d8449b03c4e96a5b2c7374ac6d, type: 3}
+      probability: 22
+    - enemy: {fileID: 1583202068361556556, guid: be065a3d5cd9ba54cab70c2e9ccdc6cf, type: 3}
+      probability: 33
+    - enemy: {fileID: 5034371151504965907, guid: ebe9e3eabc7934982bf18d95b15ec0fe, type: 3}
+      probability: 10
+    rangedEnemies:
+    - enemy: {fileID: 1583202068361556556, guid: 356631a19e3c9a243bd703bb7c58939a, type: 3}
+      probability: 10
+    - enemy: {fileID: 1583202068361556556, guid: 8535d3d8449b03c4e96a5b2c7374ac6d, type: 3}
+      probability: 10
+    - enemy: {fileID: 1583202068361556556, guid: be065a3d5cd9ba54cab70c2e9ccdc6cf, type: 3}
+      probability: 10
+    - enemy: {fileID: 5034371151504965907, guid: ebe9e3eabc7934982bf18d95b15ec0fe, type: 3}
+      probability: 15
+    - enemy: {fileID: 1649618208081616243, guid: 561bf7784b301e246bcde6feaf5b47cf, type: 3}
+      probability: 5
+    - enemy: {fileID: 3995359626106814565, guid: 5b868f1224837014e9f2529a6a95d844, type: 3}
+      probability: 7
+    boss:
+    - enemy: {fileID: 826255486146100114, guid: 06f048848c80aa24baad66a29d3dda6f, type: 3}
+      probability: 1
+    bossMode: {fileID: 0}
+    validBossModeIds: 000000000100000002000000030000000400000005000000
+    bossModeCount: 3
+    bossAttackCount: 7
+  minSize: {x: 71, y: 40}
+  maxSize: {x: 142, y: 80}

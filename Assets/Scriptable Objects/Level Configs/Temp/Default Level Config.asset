@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3696309e82da88243b2408a3e54302fe, type: 3}
+  m_Name: Default Level Config
+  m_EditorClassIdentifier: 
+  minLevelLength: 35
+  maxLevelLength: 55
+  levelChunks:
+  - {fileID: 1912751335100450952, guid: 6e177564425c51a43bf4b78049b6283e, type: 3}
+  - {fileID: 1912751335100450952, guid: 12de2a86c6a08f04a90a24c8b122014c, type: 3}
+  - {fileID: 1912751335100450952, guid: 2097e62ca645b15468b680830b485386, type: 3}
+  - {fileID: 1912751335100450952, guid: 9ab1ef7d19da8d847834bfc550ff2eb6, type: 3}
+  - {fileID: 1912751335100450952, guid: cc9a38aa55ed3634a98dc4495dca3b30, type: 3}
+  - {fileID: 1912751335100450952, guid: b99f408c1df3dd14c9508d39d13b30b3, type: 3}
+  - {fileID: 1912751335100450952, guid: 59105831a71566346808facd5b653947, type: 3}
+  - {fileID: 1912751335100450952, guid: b3c1904ffbbe3a042b1013e909e31712, type: 3}
+  - {fileID: 1912751335100450952, guid: 73b364cf5a5324a49a5c81d761bee762, type: 3}
+  - {fileID: 1912751335100450952, guid: 8b7ec0a0c759ce543befd75f2eb86956, type: 3}
+  - {fileID: 1912751335100450952, guid: 2f0534cc71f51e74e8ab81147b5ae23c, type: 3}
+  - {fileID: 1912751335100450952, guid: 987a4a39590e8ea4083ea1b618c6b988, type: 3}
+  - {fileID: 1912751335100450952, guid: b5781d224acbe344d8dbafa6b34962e5, type: 3}
+  - {fileID: 1912751335100450952, guid: 17e58eae920777e418fafe1012f09cfe, type: 3}
+  - {fileID: 2620434074589389176, guid: 545c674490c139e4bb5d356b0e643b4c, type: 3}
+  - {fileID: 1912751335100450952, guid: f228c0186fdad6441bcbd3c931f96e79, type: 3}
+  - {fileID: 1357344205124657409, guid: db49343281ea2794f93028c7aba63938, type: 3}
+  - {fileID: 9066988140458056958, guid: 131e66d9621afad489a4469235534925, type: 3}
+  directions: 00000000010000000200000003000000
+  chances: 01000000010000003200000001000000
+  minSize: {x: 10, y: 11}
+  maxSize: {x: 40, y: 20}

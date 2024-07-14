@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1889406492083002431
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1625239424109977232}
+  - component: {fileID: 7765899061915512878}
+  - component: {fileID: 1469130052805214746}
+  - component: {fileID: 7626904912739343525}
+  - component: {fileID: 4593691962045562979}
+  m_Layer: 0
+  m_Name: Progression Manager
+  m_TagString: ProgressionManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1625239424109977232
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889406492083002431}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7765899061915512878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889406492083002431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 505fd1ef707ffba4dba22250bafa0995, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  achievements:
+  - {fileID: 11400000, guid: 45702ecc5b94dcc409591701cc0e045b, type: 2}
+--- !u!114 &1469130052805214746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889406492083002431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42245af8cf41d794bba01824082439ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpCount: 0
+  enemiesKilled: 0
+  bossDefeatedCount: 0
+  score: 0
+  permanentCurrencyAcquired: 0
+  beatenGame: 0
+  killNormalEnemyScore: 100
+  clearARoomScore: 350
+  perfectlyClearARoomScore: 1000
+--- !u!114 &7626904912739343525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889406492083002431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 556a304ff85576841a3786de317b933a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  useSeed: 0
+  seed: 0
+  scenes:
+  - Default
+  - Default 2
+  - Default 3
+  - Victory
+  currentSceneIndex: 0
+--- !u!114 &4593691962045562979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889406492083002431}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bc0a8b9772708a4a98de9efbee81711, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  feats:
+  - {fileID: 11400000, guid: edb6161e06a23da459e2898ed638cfb3, type: 2}
+  - {fileID: 11400000, guid: 707415175d566534fb2e3f9926d1c199, type: 2}
+  - {fileID: 11400000, guid: 4551bf8dc72eccf4bad65fa710e03386, type: 2}
+  - {fileID: 11400000, guid: 2bcd8a2256a914a468b528811de5d109, type: 2}
+  - {fileID: 11400000, guid: 6b67ade868b2bd642a1ff23868fca993, type: 2}
+  - {fileID: 11400000, guid: d2659360ed553164ea30ca550fc9a4a3, type: 2}
+  - {fileID: 11400000, guid: 47b4543f2872474429861a0ea81fbb9c, type: 2}

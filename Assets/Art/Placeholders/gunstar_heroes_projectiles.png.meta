@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 2cd08b5f8dfc6d642ac80dd3c0ad5d76
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 284
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a99ded4301bc488477dfff4ab1998
+      internalID: -76526074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 882
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2b5eccf4441d429a692d22ae54424
+      internalID: 450096276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 918
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243452bb60be3f74fbf66a7dbed7d514
+      internalID: 401107356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 918
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edd16cafcfb1cb4ba55b02664f4ae9c
+      internalID: 1106007572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 918
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb748a3a66508c4db9c6fbd71faec52
+      internalID: -1824953568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 918
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ded85d97cd10048b1fc12f6705553f
+      internalID: 1831544420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 918
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8892b91e2e5903d4cac77552be2f4ffe
+      internalID: 873880253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 832
+        width: 19
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23e80e28e9d21f43aaecae888b37018
+      internalID: 185013093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 795
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fdd2bac41b27044ad5fc22b640b3d2
+      internalID: 1217281652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gunstar_heroes_projectiles_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 918
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4de3bf6f7d965246904ea70c57ee623
+      internalID: 247136462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_0: -915725299
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_1: -52547000
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_10: -1848994803
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_11: -691177655
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_12: -271150198
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_13: 512770312
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_14: -1534691465
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_15: -1379146323
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_16: -945721222
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_17: -1209069082
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_18: 2101637933
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_19: 881508192
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_2: -229813552
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_20: 830515218
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_21: -123137866
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_22: -1660435545
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_23: 1551550107
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_24: 1271898866
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_25: -229412428
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_26: 745302173
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_27: -183870598
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_28: 960394736
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_29: 1426974619
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_3: 75315613
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_30: 1122042253
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_31: 1687485729
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_32: 919076866
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_33: 966947000
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_34: 375285772
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_35: -1314155297
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_36: 63660397
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_37: 531204268
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_38: -394840008
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_39: -629408355
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_4: 711585445
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_40: 864678540
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_41: 968507448
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_42: 1734810128
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_43: -741895573
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_44: 684904598
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_45: 1936244688
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_46: 438017504
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_47: 689987784
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_48: 817723752
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_49: 783331083
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_5: 1205194864
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_50: -785663363
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_51: 1318056923
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_52: 1995595135
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_53: -1750814042
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_54: -1875452491
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_55: -1507411052
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_56: 1997872338
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_57: -1933215531
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_58: -1884201349
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_59: -1578608159
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_6: -2089090753
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_60: 44275443
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_61: 1763857480
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_62: -1449324912
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_63: 411629093
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_64: -948126234
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_65: -98747116
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_66: -1927360161
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_67: 484164159
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_68: -2068378310
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_69: -1863635427
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_7: 1353791808
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_70: 1328091888
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_71: -586978701
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_72: -1295408970
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_73: 2130378396
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_74: 1442053117
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_75: 829276554
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_8: 1824276600
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_9: -76526074
+      gunstar_heroes_projectiles_0: 450096276
+      gunstar_heroes_projectiles_1: 401107356
+      gunstar_heroes_projectiles_2: 1106007572
+      gunstar_heroes_projectiles_3: -1824953568
+      gunstar_heroes_projectiles_4: 1831544420
+      gunstar_heroes_projectiles_5: 873880253
+      gunstar_heroes_projectiles_6: 185013093
+      gunstar_heroes_projectiles_7: 1217281652
+      gunstar_heroes_projectiles_8: 247136462
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

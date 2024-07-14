@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 999a2ca4af5250a4782d91d32e010831, type: 3}
+  m_Name: All Powerups
+  m_EditorClassIdentifier: 
+  powerups:
+  - prefab: {fileID: 1529758642995746212, guid: 27eae9e4d915a2a45adbf6c8055a43bd, type: 3}
+    name: weapon
+  - prefab: {fileID: 4415030452463635514, guid: c7bd2f5b160ab344f912d4f0d0f3ac07, type: 3}
+    name: health
+  - prefab: {fileID: 7599061396131664229, guid: 6e1c9eb94a227ee48b130b601e1ce6e9, type: 3}
+    name: maxhealth
+  - prefab: {fileID: 6080089415940654215, guid: 46a7fedde75fd914fae0df5d67212e2f, type: 3}
+    name: invincibility
+  - prefab: {fileID: 7536575793829809289, guid: 18780376758669e4fbe448a6d2b4c2c9, type: 3}
+    name: ricochet

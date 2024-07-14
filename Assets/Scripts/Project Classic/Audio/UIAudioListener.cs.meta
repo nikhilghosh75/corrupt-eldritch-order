@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: b32fee4d76d3ad444aaf91b4a1ac7862
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyDeath: {fileID: 11400000, guid: 47736ac7b99f68d4392be1f0b35408f5, type: 2}
+  - playerShoot: {fileID: 11400000, guid: 706179c84e6073d44b34a574840678a2, type: 2}
+  - playerDash: {fileID: 11400000, guid: 99db5c8912ac5de4cad76a0623fe0a38, type: 2}
+  - playerJump: {instanceID: 0}
+  - playerDoubleJump: {instanceID: 0}
+  - currency: {instanceID: 0}
+  - playerLowHealth: {instanceID: 0}
+  - placeholderPowerup: {instanceID: 0}
+  - placeholderPause: {instanceID: 0}
+  - placeholderResume: {instanceID: 0}
+  - overgrownPlay: {fileID: 11400000, guid: ca5825da94d832c41820cb98256ac66e, type: 2}
+  - overgrownStop: {fileID: 11400000, guid: 1d77a32459d8e6247a8b9c2d689df636, type: 2}
+  - industrialPlay: {fileID: 11400000, guid: 5b72f5ab3886c0a43a984965def4c464, type: 2}
+  - industrialStop: {fileID: 11400000, guid: 0253ab37349518546b7d4c7dfc042f57, type: 2}
+  - organicPlay: {fileID: 11400000, guid: 19de46d89bf50104898ec69acd160dc4, type: 2}
+  - organicStop: {fileID: 11400000, guid: cb482957d41f24a4f83fe53286bcb825, type: 2}
+  - player: {fileID: 2767446951427425092, guid: 477b80d9f25570f4381b820cb3457ff3, type: 3}
+  - globalLevel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

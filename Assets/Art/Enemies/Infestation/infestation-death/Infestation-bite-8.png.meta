@@ -1,0 +1,1864 @@
+fileFormatVersion: 2
+guid: 8bd0fe719a84e4d8eb94cdce31e4a029
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 316
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05113bf6636824419f14d85a46cd104
+      internalID: -915725299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f0ac5b443af42428637efc4eab5a61
+      internalID: -52547000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 315
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c934a746a270f41a4708f7883de7cc
+      internalID: -229813552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 316
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d7fb300ed66e84593d0e4fa7730716
+      internalID: 75315613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 316
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115c1bf43eef39f4fa282684050e6c41
+      internalID: 711585445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 315
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8b4a09d8210464a9f09b54edf85361
+      internalID: 1205194864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 267
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e215e7b28b184cb5b742298ffbf75
+      internalID: -2089090753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 266
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8d4ccc933f3634f937dc6cbc36794c
+      internalID: 1353791808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 265
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b764092a54716846aff70eabf05ace6
+      internalID: 1824276600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 284
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a99ded4301bc488477dfff4ab1998
+      internalID: -76526074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc5a97562f88574fb5f55706ce8d876
+      internalID: -1848994803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 265
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c64acff32dfd43b2d04d1619e9d74
+      internalID: -691177655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 267
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde67b536344f9443bce031b0ebd13d2
+      internalID: -271150198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_13
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 268
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19196a589c5500042ac798a966128ece
+      internalID: 512770312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 267
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4379ee2a515fb5e49bb82b30381e3aa0
+      internalID: -1534691465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 267
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e8ef401fe26e3439f9863d0936b242
+      internalID: -1379146323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_16
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 268
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3804367acb380884e9a7170a73512372
+      internalID: -945721222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 267
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a1eb5e7945bb547ba66d88c2bb5ff3
+      internalID: -1209069082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 229
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7814087460a0be94d947438297da95e3
+      internalID: 2101637933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 231
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41861dc20a9fbe4dae68171044e8ba1
+      internalID: 881508192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 232
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea3a06d8b4a00646bad9a5a2f6fc448
+      internalID: 830515218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 226
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdae707ff12d30149bf41a2b3de52071
+      internalID: -123137866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 232
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a301e0bf4d51304ab67fb431add94e9
+      internalID: -1660435545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 225
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d0c8f27700f314bbb5f624a31064c1
+      internalID: 1551550107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_24
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 234
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76fd95acd1d8c499968e5ba702c650
+      internalID: 1271898866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 231
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8d76799aef3544ba5de4920236db24
+      internalID: -229412428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c035fa81931b76f428939ff9a178986a
+      internalID: 745302173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_27
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 227
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e1ff4e68bd15b42bbf79f262c90038
+      internalID: -183870598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007a94eb8960f314a813f129a7bc5f8c
+      internalID: 960394736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 183
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eea7108a1204794fa07c2c27ac23b34
+      internalID: 1426974619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 184
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f214ddd9062d4d949b4cd272b8e2f664
+      internalID: 1122042253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_31
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 189
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71376d1aa66973e40b6371408781064f
+      internalID: 1687485729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 190
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ecaf2a67e2ea47a56a6d83ec6370b
+      internalID: 919076866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 186
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e20d8eb4591d418c1c44f4ac1ea5d
+      internalID: 966947000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 192
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e401537ad497804395cea8f0b73f2da
+      internalID: 375285772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_35
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 192
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fcd8072b76052469835cdbeeaa84ad
+      internalID: -1314155297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_36
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 186
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be3ddc77b13574a805662eebb8e77f
+      internalID: 63660397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_37
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 192
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bc248cc4acbec449c8922c09b94933
+      internalID: 531204268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_38
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 138
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740b618309100674981f0a306709969b
+      internalID: -394840008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_39
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 137
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30f226e2281a124cb71c096a721a6d7
+      internalID: -629408355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 134
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7539d6788e36445950f85fa4a62b30
+      internalID: 864678540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_41
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 135
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3e51efb1de0904da9ca147b17ba82f
+      internalID: 968507448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_42
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 134
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e136c126eede4785d0f5135164eb7
+      internalID: 1734810128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 134
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f309e54961f298444a386007a6ba3b7b
+      internalID: -741895573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 135
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4532f45b1699d1f41ae921d26544af9c
+      internalID: 684904598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 134
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f299a8c67d9b84eb934a2d20d4c8e3
+      internalID: 1936244688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_46
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 134
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20c14a035015774e9f196d2c38c4202
+      internalID: 438017504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 135
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ac6c34c276a3a47a0f224a5bae010d
+      internalID: 689987784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_48
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 136
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3fe40e414af4444aaff209cfa81dd2
+      internalID: 817723752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c054af006b7609c4d8efec3c8610bfb8
+      internalID: 783331083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 96
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58e9d52e1ea7354eb6a40f1a6740736
+      internalID: -785663363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_51
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 97
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07507673f23f1e4fa98d9ccc59f1d02
+      internalID: 1318056923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_52
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 92
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec28f54d2fcfa854d82eb6b5a1605081
+      internalID: 1995595135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_53
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 95
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3e5cc2e3a630d4a8d803ed23e81bff
+      internalID: -1750814042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_54
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 95
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1857ead82e447d46ae93e12a44a4dcf
+      internalID: -1875452491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_55
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 97
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6dfedb7bfed6a439d360c706a71742
+      internalID: -1507411052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_56
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 98
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd704652dcbec44abbf5dbc355109e
+      internalID: 1997872338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_57
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 103
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ed262a898aef4e9c753ffd5ceb459
+      internalID: -1933215531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 94
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf92bce0d44fd441a20175f906329a8
+      internalID: -1884201349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_59
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610778f74d8f4048a7bee1cfa51a80c
+      internalID: -1578608159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_60
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 49
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7669b86842388e4a90af1798e54e592
+      internalID: 44275443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86313ba0fe1bdc4b902d46445d98a6c
+      internalID: 1763857480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 50
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342e1315a729be4e888550aeeb49ba1
+      internalID: -1449324912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_63
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 57
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5643f45a395ee4ab01bf51f7abbec5
+      internalID: 411629093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_64
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 52
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d92aa6eefc356e4796dc6cbc5cb87a5
+      internalID: -948126234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 53
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b4bb7c31ca0c04bbb96361562a3d16
+      internalID: -98747116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_66
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 56
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29eb3c544a76d94aacb648c55c3c955
+      internalID: -1927360161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_67
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6447f42ca3e8424d90855ebc14f9e74
+      internalID: 484164159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_68
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 57
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd69718a97713ab408fc3164a7bd9001
+      internalID: -2068378310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 25
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0fb8de67347246bbdd94d245d57a3
+      internalID: -1863635427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_70
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286bb26823f2f31499ae2352daad7565
+      internalID: 1328091888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_71
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4a8fd2a67ff3e4391ecb57b4d71427
+      internalID: -586978701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_72
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1103b5cd5b7c045b29af82a32cb9ee
+      internalID: -1295408970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_73
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 12
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac6e1f38bebec449b26da3f721d704e
+      internalID: 2130378396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_74
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97836d5daf2e1142926d9a43ab03c1e
+      internalID: 1442053117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3d9bf244865894080e2f78c65e2aea
+      internalID: 829276554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_0: -915725299
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_1: -52547000
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_10: -1848994803
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_11: -691177655
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_12: -271150198
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_13: 512770312
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_14: -1534691465
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_15: -1379146323
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_16: -945721222
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_17: -1209069082
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_18: 2101637933
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_19: 881508192
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_2: -229813552
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_20: 830515218
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_21: -123137866
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_22: -1660435545
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_23: 1551550107
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_24: 1271898866
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_25: -229412428
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_26: 745302173
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_27: -183870598
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_28: 960394736
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_29: 1426974619
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_3: 75315613
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_30: 1122042253
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_31: 1687485729
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_32: 919076866
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_33: 966947000
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_34: 375285772
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_35: -1314155297
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_36: 63660397
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_37: 531204268
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_38: -394840008
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_39: -629408355
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_4: 711585445
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_40: 864678540
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_41: 968507448
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_42: 1734810128
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_43: -741895573
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_44: 684904598
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_45: 1936244688
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_46: 438017504
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_47: 689987784
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_48: 817723752
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_49: 783331083
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_5: 1205194864
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_50: -785663363
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_51: 1318056923
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_52: 1995595135
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_53: -1750814042
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_54: -1875452491
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_55: -1507411052
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_56: 1997872338
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_57: -1933215531
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_58: -1884201349
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_59: -1578608159
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_6: -2089090753
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_60: 44275443
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_61: 1763857480
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_62: -1449324912
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_63: 411629093
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_64: -948126234
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_65: -98747116
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_66: -1927360161
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_67: 484164159
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_68: -2068378310
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_69: -1863635427
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_7: 1353791808
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_70: 1328091888
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_71: -586978701
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_72: -1295408970
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_73: 2130378396
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_74: 1442053117
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_75: 829276554
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_8: 1824276600
+      Sega Genesis 32X - Gunstar Heroes - Gunstar Blue_9: -76526074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

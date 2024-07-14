@@ -1,0 +1,159 @@
+Event	ID	Name			Wwise Object Path	Notes
+	65996916	Debuffer_Hit			\Default Work Unit\Enemy\Debuffer\Debuffer_Hit	
+	74857649	Play_Placeholder_Shoot			\Default Work Unit\Player\Play_Placeholder_Shoot	
+	245624059	Spike_Hit			\Default Work Unit\Level\Spike_Hit	
+	510827497	Button_Back			\Default Work Unit\UI\Button_Back	
+	590348739	Play_Level_Ambience			\Default Work Unit\Music\Play_Level_Ambience	
+	723231588	Play_Level_Music_1			\Default Work Unit\Music\Play_Level_Music_1	
+	723231590	Play_Level_Music_3			\Default Work Unit\Music\Play_Level_Music_3	
+	723231591	Play_Level_Music_2			\Default Work Unit\Music\Play_Level_Music_2	
+	787018146	Soldier_Melee_Hit			\Default Work Unit\Enemy\Soldier\Soldier_Melee_Hit	
+	849539212	Play_Overgrown_Ambience			\Default Work Unit\Ambience\Play_Overgrown_Ambience	
+	850574460	Infestation_Puddle			\Default Work Unit\Enemy\Infestation\Infestation_Puddle	
+	1004952506	Breakaway_Platform_Broken			\Default Work Unit\Level\Breakaway_Platform_Broken	
+	1011653694	Play_Placeholder_Double_Jump			\Default Work Unit\Player\Play_Placeholder_Double_Jump	
+	1028117628	Stop_Industrial_Ambience			\Default Work Unit\Ambience\Stop_Industrial_Ambience	
+	1105785088	Sawblade_Mode			\Default Work Unit\Level\Sawblade_Mode	
+	1135171848	Button_Select			\Default Work Unit\UI\Button_Select	
+	1191483956	Warlock_Shoot			\Default Work Unit\Enemy\Warlock\Warlock_Shoot	
+	1365336475	Stop_Boss_Music			\Default Work Unit\Music\Stop_Boss_Music	
+	1625236547	Warlock_Death			\Default Work Unit\Enemy\Warlock\Warlock_Death	
+	1627316922	Player_Player_Low_Health			\Default Work Unit\Player\Player_Player_Low_Health	
+	1654782222	Play_Industrial_Ambience			\Default Work Unit\Ambience\Play_Industrial_Ambience	
+	1701177942	Button_Hover			\Default Work Unit\UI\Button_Hover	
+	1724675634	Play_Player_Footstep			\Default Work Unit\Player\Play_Player_Footstep	
+	1759819690	Play_Mana_Out			\Default Work Unit\UI\Play_Mana_Out	
+	1792977395	Play_aerial_boss_roar			\Default Work Unit\Enemy\Boss\Play_aerial_boss_roar	
+	1809578003	Soldier_Melee_Attack			\Default Work Unit\Enemy\Soldier\Soldier_Melee_Attack	
+	1814664146	Stop_Overgrown_Ambience			\Default Work Unit\Ambience\Stop_Overgrown_Ambience	
+	1935154233	Play_Boss_Music			\Default Work Unit\Music\Play_Boss_Music	
+	2005445724	Stop_Player_Footstep			\Default Work Unit\Player\Stop_Player_Footstep	
+	2117234414	Play_Currency_Obtained			\Default Work Unit\Player\Play_Currency_Obtained	
+	2135517811	Drone_Hit			\Default Work Unit\Enemy\Drone\Drone_Hit	
+	2162096357	Infestation_Shoot			\Default Work Unit\Enemy\Infestation\Infestation_Shoot	
+	2228153899	Play_Menu_Music			\Default Work Unit\Music\Play_Menu_Music	
+	2291913880	Soldier_Ranged_Attack			\Default Work Unit\Enemy\Soldier\Soldier_Ranged_Attack	
+	2303954950	Infestation_Death			\Default Work Unit\Enemy\Infestation\Infestation_Death	
+	2394809902	Play_Mana_Charge			\Default Work Unit\UI\Play_Mana_Charge	
+	2531056363	Soldier_Ranged_Hit			\Default Work Unit\Enemy\Soldier\Soldier_Ranged_Hit	
+	2603008390	Stop_Credits_Music			\Default Work Unit\Music\Stop_Credits_Music	
+	2651745255	Infestation_Hit			\Default Work Unit\Enemy\Infestation\Infestation_Hit	
+	2754841848	Play_Placeholder_Dash			\Default Work Unit\Player\Play_Placeholder_Dash	
+	2829226800	Stop_Level_Music_3			\Default Work Unit\Music\Stop_Level_Music_3	
+	2829226801	Stop_Level_Music_2			\Default Work Unit\Music\Stop_Level_Music_2	
+	2829226802	Stop_Level_Music_1			\Default Work Unit\Music\Stop_Level_Music_1	
+	2998156832	Play_Placeholder_Jump			\Default Work Unit\Player\Play_Placeholder_Jump	
+	3000639643	Play_Timed_Trap_Sound			\Default Work Unit\Level\Play_Timed_Trap_Sound	
+	3046156865	Play_Enemy_Death			\Default Work Unit\Test\Play_Enemy_Death	
+	3252233512	Play_Organic_Ambience			\Default Work Unit\Ambience\Play_Organic_Ambience	
+	3252506929	Drone_Shoot			\Default Work Unit\Enemy\Drone\Drone_Shoot	
+	3331469051	Stop_sawblade			\Default Work Unit\Level\Stop_sawblade	
+	3343460885	Debuffer_Death			\Default Work Unit\Enemy\Debuffer\Debuffer_Death	
+	3378567885	Debuffer_Jump			\Default Work Unit\Enemy\Debuffer\Debuffer_Jump	
+	3513419829	Stop_Level_Ambience			\Default Work Unit\Music\Stop_Level_Ambience	
+	3579170884	Play_aerial_boss_hurt			\Default Work Unit\Enemy\Boss\Play_aerial_boss_hurt	
+	3583423278	Soldier_Death			\Default Work Unit\Enemy\Soldier\Soldier_Death	
+	3638125099	Play_Player_Damage			\Default Work Unit\Player\Play_Player_Damage	
+	3669201579	Play_aerial_boss_death			\Default Work Unit\Enemy\Boss\Play_aerial_boss_death	
+	3825865420	Play_Credits_Music			\Default Work Unit\Music\Play_Credits_Music	
+	3879926930	Drone_Death			\Default Work Unit\Enemy\Drone\Drone_Death	
+	3880597342	Warlock_Teleport			\Default Work Unit\Enemy\Warlock\Warlock_Teleport	
+	3945748993	Stop_Menu_Music			\Default Work Unit\Music\Stop_Menu_Music	
+	3968125428	Play_Character_Locked			\Default Work Unit\UI\Play_Character_Locked	
+	4143616090	Stop_Organic_Ambience			\Default Work Unit\Ambience\Stop_Organic_Ambience	
+	4196867396	Play_Aerial_Boss_Jingle			\Default Work Unit\Play_Aerial_Boss_Jingle	
+	4199676803	Warlock_Attack			\Default Work Unit\Enemy\Warlock\Warlock_Attack	
+	4291061104	Temp_Death			\Default Work Unit\Test\Temp_Death	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Ambience	
+
+Switch	ID	Name	Switch Group			Notes
+	478885480	Industrial	Ambience			
+	2934663280	Organic	Ambience			
+	3494918996	Overgrown	Ambience			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	535618029	EnemyVolume			\Default Work Unit\EnemyVolume	
+	988953028	SFXVolume			\Default Work Unit\SFXVolume	
+	1399119200	PlayerVolume			\Default Work Unit\PlayerVolume	
+	1866264637	DialogueVolume			\Default Work Unit\DialogueVolume	
+	2346531308	MusicVolume			\Default Work Unit\MusicVolume	
+	2782712965	Level			\Default Work Unit\Level	
+	2918011349	MasterVolume			\Default Work Unit\MasterVolume	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	309504875	DialogueBus			\Default Work Unit\Master Audio Bus\SFXBus\DialogueBus	
+	661188923	EnemyBus			\Default Work Unit\Master Audio Bus\SFXBus\EnemyBus	
+	2886307548	MusicBus			\Default Work Unit\Master Audio Bus\MusicBus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3803850708	SFXBus			\Default Work Unit\Master Audio Bus\SFXBus	
+	3966895392	PlayerBus			\Default Work Unit\Master Audio Bus\SFXBus\PlayerBus	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	4929525	classic_playerjump1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_playerjump1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Jump\classic_playerjump1		52252
+	7010577	Debuffer_Jump_1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Debuffer_Jump_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Debuffer\Jump\Debuffer_Jump_1		163936
+	22106570	Button Press	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Button Press_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Placeholder Button Select\Button Press		204160
+	26881597	Pew_Pew_1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Pew_Pew_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Placeholder Shoot\Pew_Pew_1		336160
+	38154865	Project_classic_charge_sound_effect_3	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Project_classic_charge_sound_effect_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Mana Charge\Project_classic_charge_sound_effect_3		141216
+	38867507	classic_currency3	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_currency3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Currency\classic_currency3		75064
+	52407902	classic_currency1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_currency1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Currency\classic_currency1		127220
+	74583272	sawblade	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\sawblade_A218D7C2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Level\Sawblade\sawblade		857408
+	106611043	Button Hover	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Button Hover_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Placeholder Button Hover\Button Hover		75060
+	109405697	classic_warlockteleport1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_warlockteleport1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Warlock\Teleport\classic_warlockteleport1		172332
+	116662733	spike	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\spike_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Level\Spike Hit\spike		335948
+	121835595	Soldier_SFX_-_Revolver	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Soldier_SFX_-_Revolver_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Soldier\Ranged Attack\Soldier_SFX_-_Revolver		282720
+	133716444	Hit_Debuffer	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Hit_Debuffer_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Debuffer\Hit\Hit_Debuffer		110408
+	197455785	infestation_death	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\infestation_death_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Infestation\Death\infestation_death		161376
+	220134525	Punch_5	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Punch_5_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Soldier\Melee Attack\Punch_5		151648
+	244016713	Hit_Range	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Hit_Range_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Soldier\Ranged Hit\Hit_Range		132460
+	247768059	breakaway_platform	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\breakaway_platform_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Level\Breakaway Platforms\breakaway_platform		406790
+	253916927	Puddle_Sizzle	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Puddle_Sizzle_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Infestation\Puddle Sizzle\Puddle_Sizzle		532576
+	271736795	impact_test_2	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\impact_test_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Player Damage\impact_test_2		79116
+	279280884	Warlock_Attack	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Warlock_Attack_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Warlock\Attack\Warlock_Attack		1096160
+	285331553	footstep	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\footstep_68808D56.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Player Footstep\footstep		89188
+	314271425	Classic Menu theme V2 (1)	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Classic Menu theme V2 (1)_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Menu Music\Classic_Menu_theme_V1\Classic Menu theme V2 (1)		23708320
+	349153519	classic_heavyweapon2	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_heavyweapon2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Shoot\classic_heavyweapon2		80456
+	354070096	Placeholder Jump	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Placeholder - Jump and Double Jump_039B4427.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Placeholder Jump\Placeholder Jump		151828
+	398620624	DeathBallLaugh	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\DeathBallLaugh_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Test\DeathBallLaugh		1453920
+	416078655	debufferdeath	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\debufferdeath_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Debuffer\Death\debufferdeath		102272
+	427440185	Mana_Out	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Mana_Out_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Not Enough Mana\Mana_Out		21628
+	430685009	overgrown level ambience	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\overgrown level ambience_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Level Ambience\Overgrown Ambience\overgrown level ambience\overgrown level ambience		24959892
+	470101758	classic_warlockshoot1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_warlockshoot1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Warlock\Shoot\classic_warlockshoot1		125568
+	497443891	industrial level ambience	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\industrial level ambience_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Level Ambience\Industrial Ambience\industrial level ambience\industrial level ambience		24038628
+	513401913	meleesoldierdeath	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\meleesoldierdeath_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Soldier\Death\meleesoldierdeath		113556
+	551999821	classic_buttonselect1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_buttonselect1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Button_Select\classic_buttonselect1		32132
+	565991231	Soldier_SFX_3	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Soldier_SFX_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Soldier\Ranged Attack\Soldier_SFX_3		352352
+	580638990	EldritchGameV4	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\EldritchGameV4_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Level Music 1\EldritchGameV4\EldritchGameV4		26721888
+	581306342	Project classic gameplay music ver 2 MASTERED	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Project classic gameplay music ver 2 MASTERED_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Level Music 3\Project classic gameplay music ver 2 MASTERED\Project classic gameplay music ver 2 MASTERED		11088096
+	590064135	Timed_Trap_Sound	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Timed_Trap_Sound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Level\Timed Trap\Timed_Trap_Sound		639460
+	616138498	Hit_Melee	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Hit_Melee_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Soldier\Melee Hit\Hit_Melee		44260
+	629515918	aerial boss death	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\aerial boss death_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Aerial Boss\Aerial Boss Death\aerial boss death		874944
+	630020774	Aerial Boss Music	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Aerial Boss Music_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Boss Music\Aerial Boss Music\Aerial Boss Music		27121660
+	642506652	drone_being_hit_3	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\drone_being_hit_3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Drone\Hit\drone_being_hit_3		189024
+	688082141	classic_playerdoublejump1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_playerdoublejump1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Jump\classic_playerdoublejump1		48760
+	699400511	Placeholder Dash	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Placeholder - Dash_756D42D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Placeholder Dash\Placeholder Dash		380204
+	699490878	drone_shoot_2	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\drone_shoot_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Drone\Shoot\drone_shoot_2		373344
+	701032042	eldritch_full	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\eldritch_full_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Level Music 2\eldritch_full\eldritch_full		16137312
+	716563263	aerial boss roar	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\aerial boss roar_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Aerial Boss\Aerial Boss Attack\aerial boss roar		537672
+	801354309	low_health_start	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\low_health_start_89D35446.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Low Health\low_health_start		4275616
+	807985154	lego-yoda-death-sound	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\lego-yoda-death-sound_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Enemy Death\lego-yoda-death-sound		573536
+	823313628	drone_death	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\drone_death_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Drone\Death\drone_death		161376
+	837283213	aerial boss hurt	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\aerial boss hurt_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Aerial Boss\Aerial Boss Hurt\aerial boss hurt		515132
+	866595140	classic_currency2	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_currency2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Currency\classic_currency2		51240
+	874128444	Hit_Infection	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Hit_Infection_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Infestation\Hit\Hit_Infection		110412
+	874705910	classic_buttonhover1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_buttonhover1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Button_Hover\classic_buttonhover1		10432
+	887655061	classic_playeronhit4	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_playeronhit4_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Hit\classic_playeronhit4		16880
+	895322663	Project_classic_charge_sound_effect_1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Project_classic_charge_sound_effect_1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Mana Charge\Project_classic_charge_sound_effect_1		1231368
+	908895643	Project_classic_charge_sound_effect_2	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Project_classic_charge_sound_effect_2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Mana Charge\Project_classic_charge_sound_effect_2		2293296
+	913073588	Infection_Shot	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Infection_Shot_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Infestation\Shoot\Infection_Shot		264760
+	913269483	Invalid_Select	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Invalid_Select_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Character_Locked\Invalid_Select		9060
+	931099535	AerialBossFanfare1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\AerialBossFanfare1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Miscellaneous\Boss Victory Jingle\AerialBossFanfare1		2414456
+	961889573	credits_but_better_1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\credits_but_better_1_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Credits Music\credits_but_better_1\credits_but_better_1		22892640
+	976187395	impact_test	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\impact_test_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Player Damage\impact_test		234708
+	986583721	warlock_death	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\warlock_death_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemies\Warlock\Death\warlock_death		202848
+	1007040327	classic_backbutton1	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_backbutton1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\UI\Button_Back\classic_backbutton1		14492
+	1021182731	organic level ambience	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\organic level ambience_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Level Ambience\Organic Ambience\organic level ambience\organic level ambience		22970388
+	1036731618	Placeholder Double Jump	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\Placeholder - Jump and Double Jump_F51AEDD2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Placeholder Sounds\Placeholder Double Jump\Placeholder Double Jump		210952
+	1045753414	classic_playerdash2	C:\Users\earlg\OneDrive\Documents\GitHub\project-classic\project-classic_WwiseProject\.cache\Mac\SFX\classic_playerdash2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Dash\classic_playerdash2		52160
+

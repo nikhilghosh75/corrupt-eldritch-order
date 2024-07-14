@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: ff241da31e3f34800b697cd41b90435c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sizzle: {fileID: 11400000, guid: 3fb2b402a8af46f44b240a9b1330730a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{CADD9742-D010-43D6-935A-226D7201FE2B}" SchemaVersion="110">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{CADD9742-D010-43D6-935A-226D7201FE2B}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Default" ID="{5E1C0930-3068-47D5-8207-966D5EE7EC5E}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Test" ID="{38169A0B-BB05-415E-8B0E-FCD0EE14AB5F}" WorkUnitID="{4C20DDAE-84EE-46F5-93AC-E23012355444}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Interactive Music Hierarchy" ID="{49FED366-B530-42A8-993B-924873AAB707}" WorkUnitID="{49FED366-B530-42A8-993B-924873AAB707}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Test" ID="{2142EC55-6937-4595-B2EF-8B640A7465A0}" WorkUnitID="{B4FCF39E-7DBF-4017-8C6B-6D11975C2BD7}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{4C20DDAE-84EE-46F5-93AC-E23012355444}" WorkUnitID="{4C20DDAE-84EE-46F5-93AC-E23012355444}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Actor-Mixer Hierarchy" ID="{5EA7BBF8-64C0-4A50-8821-A07E8BE21D68}" WorkUnitID="{5EA7BBF8-64C0-4A50-8821-A07E8BE21D68}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{A464140D-5EB6-4C57-99F0-5DF2E06D11A1}" WorkUnitID="{A464140D-5EB6-4C57-99F0-5DF2E06D11A1}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 995b3d7c0da2e724a99fce7870b4630a, type: 3}
+  m_Name: Rage Aura Combo Weapon
+  m_EditorClassIdentifier: 
+  displayName: Rage Aura
+  weaponSprite: {fileID: 0}
+  weaponIcon: {fileID: 925371315, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  weaponType: 14
+  descriptionText: Increases the player's damage, fire rate, and speed
+  drainRate: 2
+  damageMultiplier: 2
+  fireRateMultiplier: 2
+  speedMultiplier: 1.5
+  material: {fileID: 2100000, guid: 59b321bd55c57584b84c347d4af4beb8, type: 2}
+  rendererData: {fileID: 11400000, guid: 527149480e72de244adc124cf6a187df, type: 2}

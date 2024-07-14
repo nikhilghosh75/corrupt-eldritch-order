@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f6447f8cd070b44983e9a97e11a750, type: 3}
+  m_Name: 053D2281-2B19-45B7-84C0-039A7DD6B53E
+  m_EditorClassIdentifier: 
+  objectName: Stop_Organic_Ambience
+  id: 4143616090
+  guid: 053D2281-2B19-45B7-84C0-039A7DD6B53E

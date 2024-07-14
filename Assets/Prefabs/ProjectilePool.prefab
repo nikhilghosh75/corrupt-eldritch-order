@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2737768017209198703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6825328792111725044}
+  - component: {fileID: 14593675827987911}
+  m_Layer: 0
+  m_Name: ProjectilePool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6825328792111725044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2737768017209198703}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &14593675827987911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2737768017209198703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 908fd3daf74b2b346aece2f4bb2b00ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseProjectilePrefab: {fileID: 83019648891686941, guid: a6aebb92a3958b5439644c7766a572b6, type: 3}
+  simpleProjectilePrefab: {fileID: 83019648891686941, guid: ff7b848c21b1e62469885f226f9e9769, type: 3}
+  lobbedProjectilePrefab: {fileID: 5567441277866812538, guid: fbd24e191c2e841f08df129b2237a167, type: 3}
+  minimachinegunProjectilePrefab: {fileID: 83019648891686941, guid: b70c561f19a1fce49819fb8cafdec870, type: 3}
+  revolverProjectilePrefab: {fileID: 83019648891686941, guid: 09889625c83b96247add86deebc6a5e6, type: 3}
+  manaextractorProjectilePrefab: {fileID: 83019648891686941, guid: 43a5bc2d05425f34d8a6e6c5c55e0487, type: 3}
+  sniperProjectilePrefab: {fileID: 83019648891686941, guid: 4d3de1f9a647470448eeed30c95ad422, type: 3}
+  flamethrowerProjectilePrefab: {fileID: 83019648891686941, guid: dd85ef67c2f60864db2c7a62dce76119, type: 3}
+  explosiveProjectilePrefab: {fileID: 83019648891686941, guid: 9c732d300920be645badf095818c75d4, type: 3}
+  lasershotgunProjectilePrefab: {fileID: 83019648891686941, guid: b8d1da8e964f608408d65a22e9ad4318, type: 3}
+  impactgunProjectilePrefab: {fileID: 83019648891686941, guid: 94e40b9a981a4a442aaae9a3501ef336, type: 3}
+  bouncingbladesProjectilePrefab: {fileID: 83019648891686941, guid: 07f7226c89b5f1d49aa134363ff1d624, type: 3}
+  tripleexplosivemachinegunProjectilePrefab: {fileID: 83019648891686941, guid: f13b02c5a6b289540b59f381bef9cb31, type: 3}
+  supersniperProjectilePrefab: {fileID: 83019648891686941, guid: 17713bc2d78c71649a0dc207f6afb1af, type: 3}
+  chainlightningProjectilePrefab: {fileID: 83019648891686941, guid: f91cda978fae22e478df9ede83c5b380, type: 3}
+  manaburstProjectilePrefab: {fileID: 83019648891686941, guid: f346e8289d0ede149b6b675f1452d048, type: 3}
+  warlockProjectilePrefab: {fileID: 6785206792454253397, guid: ae99b16672aa84880bd940fd41895895, type: 3}
+  initialPoolSize: 100
+  baseProjectiles: []

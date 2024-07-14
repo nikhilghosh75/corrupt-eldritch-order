@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b17aebe7b662764a89c4bc9792a1f26, type: 3}
+  m_Name: Triple Explosive Machine Gun
+  m_EditorClassIdentifier: 
+  displayName: Triple Explosive Machine Gun
+  weaponSprite: {fileID: 21300000, guid: d74e01b5c0863ff459d884584d366c96, type: 3}
+  weaponIcon: {fileID: 882766519, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  weaponType: 7
+  descriptionText: Equips a unique weapon that rapidly fires miniature explosive
+    eyeballs
+  drainRate: 8
+  weapon: {fileID: 11400000, guid: 5f31a737711a02843a32d64b76a82b7f, type: 2}
+  material: {fileID: 2100000, guid: a240e8a17b8675745acd8d8b7e7f688e, type: 2}
+  rendererData: {fileID: 11400000, guid: 527149480e72de244adc124cf6a187df, type: 2}

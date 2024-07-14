@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Level
+  - PlayerProjectile
+  - Enemy
+  - ProgressionManager
+  - PlayerWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Powerups
+  - Wall
+  - Enemy
+  - Level Bound
+  - Projectile
+  - Enemy Environment Collision
+  - Shop
+  - Door
+  - Brightness Postprocessing
+  - Player Feet
+  - MenuAnimations
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1509904983
+    locked: 0
+  - name: Aura
+    uniqueID: 3692293631
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 1340668647
+    locked: 0
+  - name: Player
+    uniqueID: 591474801
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2956077709
+    locked: 0
+  - name: Powerups
+    uniqueID: 2869535345
+    locked: 0
+  - name: UI
+    uniqueID: 1039063819
+    locked: 0

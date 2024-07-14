@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ad81e9452719f446af77d6df09e2ef5, type: 3}
+  m_Name: Laser Shotgun
+  m_EditorClassIdentifier: 
+  weaponSprite: {fileID: 21300000, guid: 64ac9a71417fb444e9020ba7e724c47f, type: 3}
+  weaponIcon: {fileID: 1002785257, guid: f86acacda4658c84e9ea50f228141b4b, type: 3}
+  bulletPrefab: {fileID: 83019648891686941, guid: ff7b848c21b1e62469885f226f9e9769, type: 3}
+  type: 2
+  weapon: 13
+  unlockedByDefault: 1
+  damage: 2000
+  fireCooldown: 1
+  bulletSpeed: 100
+  timeUntilDestroy: 10
+  bulletSpread: 0
+  pierce: 3
+  manaRecovered: 0
+  manaConsumed: 33
+  shotgunSpread: 3
+  bulletsFired: 5

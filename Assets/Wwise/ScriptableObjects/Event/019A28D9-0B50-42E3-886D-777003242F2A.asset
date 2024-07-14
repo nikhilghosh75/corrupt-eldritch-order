@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f6447f8cd070b44983e9a97e11a750, type: 3}
+  m_Name: 019A28D9-0B50-42E3-886D-777003242F2A
+  m_EditorClassIdentifier: 
+  objectName: Play_Organic_Ambience
+  id: 3252233512
+  guid: 019A28D9-0B50-42E3-886D-777003242F2A
